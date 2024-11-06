@@ -1,0 +1,296 @@
+@use '../utils/media-queries.scss' as *;
+@import "../utils/variables.scss";
+
+.Navbar {
+    display: flex;
+    position: fixed;
+    padding: 10px 0;
+    z-index: 1;
+    width: 90%;
+    justify-content: center;
+    z-index: 99999;
+    @include xs {
+        width: 408px;
+    }
+    
+
+    .Navbar-Container {
+        position: absolute;
+        width: 100%;
+        display: flex;
+        padding: 30px;
+        border-radius: 20px;
+        background-color: $navbar-background;
+        backdrop-filter: blur(7px);
+        height: 147px;
+        flex-direction: row;
+        justify-content: space-between;
+        max-width: 1320px;
+        align-items: center;
+        
+        &.open {
+            height: 330px;
+        }
+        .menu {
+            display: none;
+            flex-direction: column;
+            padding: 0;
+            border: none;
+            background: none;
+            margin-left: auto;
+        }
+        
+        .images {
+            display: flex;
+            justify-self: flex-start;
+            a:not(:last-child) {
+                margin-right: 2rem;
+            }
+    
+            a {
+                cursor: pointer;
+                text-decoration: none;
+                color: $navbar-link-color;
+                font: $navbar-logo-font;
+                align-self: center;
+                .logo1 {
+                    content: url($logo1-img);
+                }
+    
+                .logo2 {
+                    content: url($logo2-img);
+                }
+            }
+        }
+    
+        .links {
+            display: flex;
+            justify-self: flex-end;
+            a {
+                text-decoration: none;
+                color: $navbar-link-color;
+                font: $navbar-link-font;
+                cursor: pointer;
+                position: relative;
+                padding: .5rem .5rem .2rem .5rem;
+                transition: all 0.3s ease-in;
+                &.active {
+                    color: $navbar-link-active;
+                    &::after {
+                        transform: scaleX(1);
+                        background-color: $navbar-link-active;
+                        transform-origin: top left;
+                    }
+                }
+                &:hover {
+                    color: $navbar-link-active;
+                }
+    
+                &::after {
+                    content: '';
+                    position: absolute;
+                    width: 100%;
+                    transform: scaleX(0);
+                    height: 1.5px;
+                    bottom: 0;
+                    left: 0;
+                    background-color: $navbar-link-color;
+                    transform-origin: top right;
+                    transition: transform 0.3s ease-in, background-color 0.3s ease-in;
+                }
+    
+                &:hover::after {
+                    transform: scaleX(1);
+                    background-color: $navbar-link-active;
+                    transform-origin: top left;
+                }
+    
+                &:not(:last-child) {
+                    margin-right: 1rem;
+                }
+            }
+    
+            div {
+                display: flex;
+                align-items: center;
+    
+                img {
+                    cursor: pointer;
+    
+                    &.en {
+                        content: url($en-img);
+                    }
+    
+                    &.tr {
+                        content: url($tr-img);
+                    }
+                }
+            }
+        }
+        @include xs {
+            flex-direction: column;
+            align-items: flex-start;
+            justify-content: flex-start;
+            margin-bottom: auto;
+            height: 120px;
+            transition: all 0.5s ease-in-out;
+            overflow: hidden;
+            .menu {
+                display: flex;
+                align-self: center;
+                transition: all 0.5s ease-in-out;
+            }
+        
+            .images {
+                justify-self: flex-start;
+                width: 100%;
+        
+                a:not(:last-child) {
+                    margin-right: 2rem;
+                }
+        
+                a {
+                    font: $navbar-logo-font-mobile;
+                    text-align: center;
+                    img {
+                        height: 20px;
+                    }
+                }
+            }
+        
+            .links {
+                display: flex;
+                overflow: visible;
+                flex-direction: column;
+                align-items: flex-start;
+                margin-top: 2rem;
+        
+                &.open {
+                    height: 13rem;
+                }
+        
+                a {
+                    padding: .6rem;
+                    display: flex;
+                }
+        
+                div {
+                    padding: .6rem;
+                    display: none;
+        
+                    &.open {
+                        display: flex;
+                    }
+                }
+            }
+        }
+        @include sm {
+            flex-direction: column;
+            align-items: flex-start;
+            justify-content: flex-start;
+            margin-bottom: auto;
+            height: 90px;
+            transition: all 0.5s ease-in-out;
+            overflow: hidden;
+            .menu {
+                display: flex;
+                margin-top: auto;
+                align-self: flex-start;
+                transition: all 0.5s ease-in-out;
+            }
+
+            .images {
+                justify-self: flex-start;
+                width: 100%;
+
+                a:not(:last-child) {
+                    margin-right: 1rem;
+                }
+
+                a {
+                    font: $navbar-logo-font-mobile;
+
+                    img {
+                        height: 20px;
+                    }
+                }
+            }
+
+            .links {
+                display: flex;
+                overflow: visible;
+                flex-direction: column;
+                align-items: flex-start;
+                margin-top: 1rem;
+                &.open {
+                    height: 13rem;
+                }
+
+                a {
+                    padding: .6rem;
+                    display: flex;
+
+                }
+
+                div {
+                    padding: .6rem;
+                    display: flex;
+                }
+            }
+        }
+        @include md {
+            flex-direction: column;
+            align-items: flex-start;
+            justify-content: flex-start;
+            margin-bottom: auto;
+            height: 90px;
+            transition: all 0.5s ease-in-out;
+            overflow: hidden;
+            .menu {
+                display: flex;
+                margin-top: auto;
+                align-self: flex-start;
+                transition: all 0.5s ease-in-out;
+            }
+
+            .images {
+                justify-self: flex-start;
+                width: 100%;
+
+                a:not(:last-child) {
+                    margin-right: 1rem;
+                }
+
+                a {
+                    font: $navbar-logo-font-mobile;
+
+                    img {
+                        height: 20px;
+                    }
+                }
+            }
+
+            .links {
+                display: flex;
+                overflow: visible;
+                flex-direction: column;
+                align-items: flex-start;
+                margin-top: 1rem;
+                &.open {
+                    height: 13rem;
+                }
+
+                a {
+                    padding: .6rem;
+                    display: flex;
+
+                }
+
+                div {
+                    padding: .6rem;
+                    display: flex;
+                }
+            }
+        }
+    }
+}
