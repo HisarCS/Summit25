@@ -1,0 +1,84 @@
+@use '../utils/media-queries.scss' as *;
+@import "../utils/variables.scss";
+
+.gathertown {
+    display: flex;
+    width: 80%;
+    padding: 7rem 0 7rem 0;
+    gap: 2rem;
+    max-width: 1320px;
+    order: 1;
+    .image {
+        position: relative;
+        display: flex;
+        height: 100%;
+        width: 50%;
+        overflow: hidden;
+        order: 1;
+        img {
+            border-radius: 10%;
+            flex: 0 0 auto;
+            height: 100%;
+            width: 100%;
+            content: url($gathertown-image);
+        }
+    }
+    @include xs {
+        flex-direction: column-reverse;
+        order: -1;  
+        .image {
+            width: 100%;
+        }
+    }
+
+    @include sm {
+        flex-direction: column-reverse;
+        order: -1;
+        .image {
+            width: 100%;
+        }
+    }
+    .description {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        gap: 1rem;
+        width: 50%;
+        
+        @include xs {
+            width: 100%;
+        }
+
+        @include sm {
+            width: 100%;
+        }
+
+        h1 {
+            font: $gathertown-title-font;
+            color: $gathertown-text-color;
+        }
+
+        p {
+            font: $gathertown-text-font;
+            color: $gathertown-text-color;
+        }
+        a {
+            border-radius: 20px;
+            width: fit-content;
+            button {
+                background: $gathertown-button-1-background;
+                color: $gathertown-button-1-color;
+                font: $gathertown-button-font;
+                border: 1px transparent solid;
+                position: relative;
+                padding: 10px 30px;
+                border-radius: 1.5rem;
+                transition: all .5s ease-in;
+                &:hover {
+                    background: $gathertown-button-1-hover;
+                    border: 1px $gathertown-button-1-background solid;
+                }
+            }
+        }
+    }
+}

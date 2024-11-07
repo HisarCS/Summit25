@@ -1,0 +1,115 @@
+@use '../utils/media-queries.scss' as *;
+@import "../utils/variables.scss";
+
+.footer {
+    padding: 5rem 0;
+    width: 80%;
+    text-align: center;
+    .container {
+        
+        h1 {
+            font: $footer-title-font;
+            color: $footer-title-color;
+        }
+        button {
+            margin-top: 1rem;
+            font: $footer-button-font;
+            color: $footer-button-color;
+            background-color: $footer-button-background-color;
+            border: 0;
+            border-radius: 10px;
+            padding: 1rem 2rem 1rem 2rem;
+            cursor: pointer;
+            transition: all 0.3s ease-in-out;
+            border: 1px $footer-button-hover-background-color solid;
+            border-radius: 100px;
+            width: 70%;
+            
+            &:hover {
+                background-color: $footer-button-hover-background-color;
+                color: $footer-button-hover-color
+            }
+        }
+    }
+    .info {
+        display: flex;
+        margin-top: 5rem;
+        gap: 7rem;
+        color: $footer-default-text-color;
+        justify-content: center;
+        @include xs {
+            flex-direction: column;
+            align-content: center;
+        }
+        .Location {
+            text-align: left;
+            display: flex;
+            flex-direction: column;
+
+            p {
+                font: $footer-default-text-font;
+                color: $footer-default-text-color;
+            }
+            iframe {
+                margin-top: .75rem;
+                border-radius: 20px;
+                width: 30rem;
+                height: 20rem;
+
+                @include xs {
+                    width: 100%;
+                    height: 15rem;
+                }
+            }
+        }
+        .Contact {
+            display: flex;
+            flex-direction: column;
+            text-align: left;
+            p {
+                font: $footer-default-text-font;
+                color: $footer-default-text-color;
+            }
+            .info {
+                display: flex;
+                gap: 1rem;
+                margin-top: 0;
+                align-items: left;
+                flex-direction: column;
+                
+                img {
+                    width: 2rem;
+                    height: 2rem;
+                }
+                a {
+                    color: $footer-default-text-color;
+                    
+                }
+            }
+            .Socials {
+                display: flex;
+                gap: 1rem;
+                margin-top: 1rem;
+                .instagram {
+                    width: 40px;
+                    height: 40px;
+                    border: 5px solid #fff;
+                    border-radius: 50%;
+                    background-color: #fff;
+                    cursor: pointer;
+                    content: url('../assets/svgs/instagram.svg');
+                }
+
+                .twitter {
+                    width: 40px;
+                    height: 40px;
+                    border: 5px solid #fff;
+                    border-radius: 50%;
+                    background-color: #fff;
+                    cursor: pointer;
+                    content: url('../assets/svgs/twitter.svg');
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,155 @@
+// Import Google Fonts here
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,300;0,700;1,300&display=swap');
+
+$title-font: 'Plus Jakarta Sans', sans-serif;
+$title-font-scale: calc(1.375rem + 1.5vw);
+$text-font: 'Plus Jakarta Sans', sans-serif;
+$white-color: #ffffff;
+
+//Sections
+$section-header-background: #000;
+$section-fablab-background: #272829;
+$section-gathertown-background: #151515;
+$section-workshop-background: #1c1c1c;
+$section-program-background: #151515;
+$section-workshop-schedule-background: #151515;
+$section-footer-background: linear-gradient(to bottom, rgba(21, 21, 21, 0.45), rgb(181, 123, 207));
+
+
+//Navbar
+$navbar-background: rgba(0, 0, 0, 0.65);;
+
+$navbar-link-color: $white-color;
+$navbar-link-active: #b57bcf;
+$navbar-link-font: normal 700 1.2rem $title-font;
+
+$navbar-logo-color: $white-color;
+$navbar-logo-font: normal 700 1.7rem $title-font;
+$navbar-logo-font-mobile: normal 700 23px $title-font;
+
+$logo1-img: '../assets/images/beyazidealab.png';
+$logo2-img: '../assets/images/hisar.png';
+$tr-img: '../assets/images/tr.png';
+$en-img: '../assets/images/en.png';
+
+//Header
+$header-super-text-color: #82c48d;
+$header-super-text-font: italic 300 1.2rem $text-font;
+
+$header-button-1-color: $white-color;
+$header-button-1-background: #F20C78;
+$header-button-1-hover: #F20C78;
+$header-button-2-color: $white-color;
+$header-button-2-background: #03A64A;
+$header-button-2-hover: #181a19;
+$header-button-font: normal 400 1.4rem $text-font;
+
+$header-title-color: $white-color;
+$header-title-font: normal 700 4.7rem $title-font;
+$header-title-font-mobile: normal 700 2.5rem $title-font;
+
+$header-text-color: $white-color;
+$header-text-font: normal 400 1.3rem/1.95rem $text-font;
+
+//Gathertown
+$gathertown-image: '../assets/images/gathertown.png';
+$gathertown-image-overlay: linear-gradient(to bottom, rgba(0, 0, 0, 0.35), rgba(0, 153, 255, 0.5) 80%);
+
+$gathertown-title-color: $white-color;
+$gathertown-title-font: normal 700 3rem $title-font;
+
+$gathertown-text-color: $white-color;
+$gathertown-text-font: normal 400 1.4rem $text-font;
+
+
+$gathertown-button-1-color: $white-color;
+$gathertown-button-1-background: #F20C78;
+$gathertown-button-1-hover: transparent;
+$gathertown-button-font: normal 400 1.4rem $text-font;
+
+//Fablab
+$fablab-image: '../assets/images/Achmet-Mohammed.png';
+
+$fablab-title-color: $white-color;
+$fablab-title-font: normal 700 3rem $title-font;
+
+$fablab-text-color: $white-color;
+$fablab-text-font: normal 400 1.4rem $text-font;
+
+$fablab-image-text-color: $white-color;
+$fablab-image-text-font: normal 700 1.7rem $text-font;
+$fablab-image-text-font-mobile: normal 700 1.5rem $text-font;
+
+$fablab-image-overlay: linear-gradient(to bottom, rgba(21, 21, 21, 0.45) 0%, #b57bcf 100%);
+
+
+//Workshops
+$workshop-title-font: normal 700 $title-font-scale $title-font;
+$workshop-title-color: $white-color;
+
+$workshop-text-font: normal 400 14px $text-font;
+$workshop-text-color: $white-color;
+
+//Workshop Card
+$workshop-card-overlay: hsl(0, 0%, 20%, 0.5);
+
+$workshop-card-super-text-color: $white-color;
+$workshop-card-super-text-font: normal 300 1.3rem $text-font;
+
+$workshop-card-title-color: $white-color;
+$workshop-card-title-font: normal 700 1.5rem $title-font;
+
+$workshop-card-text-color: $white-color;
+$workshop-card-text-font: normal 300 clamp(.5rem, 7vh + .5rem, 1rem) $text-font;
+$workshop-card-mobile-text-font: normal 300 clamp(1.3rem, 5vh + .5rem, 1.3rem) $text-font;
+
+//Program
+$program-background: rgba(0, 0, 0, 0.65);
+
+$program-text-color: $white-color;
+$program-text-font: normal 700 clamp(1rem, 2.5vh + .5rem, 1.4rem) $text-font;
+
+$program-day-color: $white-color;
+$program-day-font: normal 300 1rem $text-font;
+
+$program-date-color: #b57bcf;
+$program-date-font: normal 700 clamp(1.2rem, 1vh + .5rem, 1.4rem) $text-font;
+
+$program-title-color: $white-color;
+$program-title-font: normal 700 3rem $title-font;
+
+$program-date-title-font: normal 700 2rem $title-font;
+$program-date-title-color: $white-color;
+
+
+//Workshop Schedule
+$workshop-schedule-text-color: $white-color;
+$workshop-schedule-text-font: normal 700 1.2rem $text-font;
+
+$workshop-schedule-day-color: $white-color;
+$workshop-schedule-day-font: normal 700 1.5rem $title-font;
+
+$workshop-schedule-session-color: $white-color;
+$workshop-schedule-session-font: normal 700 2rem $text-font;
+
+$workshop-schedule-title-color: $white-color;
+$workshop-schedule-title-font: normal 700 3rem $title-font;
+
+$workshop-table-border-color: $white-color;
+$workshop-table-even-background: #b57bcf;
+$workshop-table-odd-background: rgb(70, 70, 70);
+
+
+//Footer
+$footer-title-color: $white-color;
+$footer-title-font: normal 700 4rem $title-font;
+
+$footer-button-color: $white-color;
+$footer-button-font: normal 400 1.4rem $text-font;
+$footer-button-background-color: transparent;
+$footer-button-hover-color: #82c48d;
+$footer-button-hover-background-color: $white-color;
+
+$footer-default-text-font: normal 400 1.4rem $text-font;
+$footer-default-text-color: $white-color;
+

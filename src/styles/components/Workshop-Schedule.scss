@@ -1,0 +1,62 @@
+@use '../utils/media-queries.scss' as *;
+@import "../utils/variables.scss";
+
+.Workshop-Schedule {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    h1 {
+        font: $workshop-schedule-title-font;
+        color: $workshop-schedule-title-color;
+    }
+    .schedule-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 2.5rem;
+        border: 1px solid $workshop-table-even-background;
+        .table-wrapper {
+            display: flex;
+            flex-direction: row;
+            gap: 1rem;
+            padding: 1rem;
+            @include xs {
+                width: 90%;
+                flex-direction: column;
+            }
+            h1 {
+                font: $workshop-schedule-session-font;
+                color: $workshop-schedule-session-color;
+            }
+            .table {
+                display: flex;
+                width: 100%;
+                border-collapse: collapse;
+                border: 1px solid $workshop-table-even-background;
+                flex-direction: column;
+                border-radius: 20px;
+                background-color: $workshop-table-odd-background;
+                overflow: hidden;
+                .cell {
+                    text-align: center;
+                    padding: 16px;
+                    font: $workshop-schedule-text-font;
+                    color: $workshop-schedule-text-color;
+                    gap: 1rem;
+                    &:nth-child(even) {
+                        background-color: $workshop-table-even-background
+                    }
+
+                }
+
+
+                
+            }
+        }
+    }
+    @include xs {
+        width: 90%;
+
+    }
+}

@@ -1,0 +1,224 @@
+{
+    "Super-Text": "A Decade of Learning",
+    "Title" : "10th Annual Hisar Coding Summit",
+    "About Us": "Hisar Coding Summit, which was initially created to develop the potential of our students within the scope of digital transformation, will be held for the 10th time this year at Hisar Schools on 15-16 December 2023. Hisar Coding Summit will be in both English and Turkish making it an international event with over 20 workshops and 3 speakers",
+    "Join Text": "Are you Coding Summitists ready? We are bringing you together for the 10th time of Hisar Coding Summit!",
+    "Join Button": "Join the Summit",
+    "See Program": "See Program",
+    "Navbar": {
+        "Home": {"name": "Home", "link": "/#home"},
+        "About Us": {"name": "About Us", "link": "/#about-us"},
+        "10th Event Schedule": {"name": "10th Event Schedule", "link": "/#program"},
+        "Join Coding Summit": {"name": "Join Coding Summit", "link": "/#join"}
+    },
+    "Fablab Header": "FabLab: Idealab",
+    "Fablab Text": "For a decade, Idealab has been the heartbeat of innovation, a thriving maker space where boundless creativity and collaborative spirit converge to turn dreams into reality.",
+    "Fablab Image Text 1": "Coding Since 2013",
+    "Fablab Image Text 2": "With the power of Learning",
+    "Gathertown Title": "Gathertown: Project Fair",
+    "Gathertown Text": "Our project Fair of Coding Summit X will be held Online in GatherTown. We are open to all projects that align with the motto Decade of Learning: Celebrating the Impact of Innovation, and may be of your interest in any interdisciplinary area that displays the intersection of innovation and technology.",
+    "Workshop Text": "Student Lead Workshops",
+    "Gathertown Button Text": "Join as a Presenter",
+    "Gathertown Button Link": "https://forms.gle/YiNCZXMZYvuR5irs7",
+    "Workshops": {
+        "Hybrid": {
+            "Make Your Own Creative Calculator with Java": {
+                "description":"You have all seen a calculator that sums 2+2. Have you seen one that sums blue and red, or chickens and goats. Lets build one to our liking together while learning about core concepts of programming like object oriented coding with the most used programming language in the world Java.",
+                "image": "./images/workshops/java.png"
+            },
+            "Crack Wifi Passwords and Decrypt the Encrypted Messages": {
+                "description":"Nowadays, everyone has wifi in their home. In the Coding Summit, join a lecture for cracking the password of any wifi. In this lecture, you will also learn the most common ways to decrypt encrypted messages with and without coding.",
+                "image": "./images/workshops/Encyption.png"
+            },
+            "Idea Factory: Crafting Your Startup Story": {
+                "description":"Discover the exciting world of entrepreneurship with our workshop, suitable for everyone! Unleash your inner innovator and learn to transform your ideas into thriving startups. Dive into hands-on activities and expert guidance, and embark on a journey that promises not just learning, but fun and adventure! Join us and start your path to success today.",
+                "image": "./images/workshops/Entrepreneurship.png"
+            },
+            "Expectations from a Server: Virtualization From Scratch": {
+                "description":"How do large companies control all the computers from one computer? Why don't hackers use Windows or Mac? How can we protect a website from crashing? If you're curious about the answers to these and similar questions, this workshop is just for you. ",
+                "image": "./images/workshops/Server.png"
+            },
+            "Creating Digital Masterpieces: Art Generation with SwiftUI Workshop": {
+                "description":"Become a digital artist with our \"Creating Digital Masterpieces: Art Generation with SwiftUI\" workshop! Learn to harness the power of SwiftUI and create stunning art-generating apps. Explore the fusion of coding and creativity, and unleash your inner artist. Join us and bring your artistic vision to life through code.",
+                "image": "./images/workshops/SwiftUI.png"
+            },
+            "Coinflip with Quantum Computing": {
+                "description":"You may have come across the word \"quantum\" in your life, but what does it mean? In this workshop, you will learn basic quantum principles and create a coinflip project with the easy-to-learn coding language, Python.",
+                "image": "./images/workshops/Quantum.png"
+            },
+            "Large Language Models: AI That Can Talk": {
+                "description":"Everyone has heard of ChatGPT and interacted with it, but how does it actually work? In this class, we will look at the background of Large Language Models and how they work. We will also look at current LLM, deduce its logic, and use it to learn how one can start creating one.",
+                "image": "./images/workshops/LLM.png"
+            },
+            "Python Adventure: Crafting Your Own Text-Based Game": {
+                "description": "Do you want to write your own adventure game? With Python, you can write your own text-based adventure customizing everything from the characters to every single detail of the scenario. You will make these customizations via Python while making a fun game and learning the fundamentals of Coding. ",
+                "image": "./images/workshops/Python.png"
+            },
+            "Can We Repair Old Photos?": {
+                "description":"Ever wondered how you can make an old photo look brand new? Or how you can revive a faded photo? In this workshop we will learn how to use the Adobe Photoshop tools and workspace to make that happen! You will also make your own creation by combining photos!",
+                "image": "./images/workshops/Photoshop.png"
+            },
+            "Unlocking the Athlete's Mind: Predicting Penalty Positions with AI and Computer Vision": {
+                "description":"Is it possible to read the mind of an athlete? In this lesson, we will analyze penalty positions in football matches using computer vision and AI. Our goal is to design a model that can predict where the shooter is aiming. Ready to foresee the future?",
+                "image": "./images/workshops/AIMessi.png"
+            },
+            "Recreating Super Mario Bros with Unity 2D!": {
+                "description":"At the end of this course, you will have your own personalized Super Mario Bros. game and will know the basics of game design, an understanding of C#, and intermediate knowledge of the Unity Engine and its library. Welcome to Game Design.",
+                "image": "./images/workshops/Mario.png"
+            },
+            "Dynamic Sculptures with Fusion360: Kinetic Wave": {
+                "description":"In this workshop, you will learn prototyping and 3D design through making a sculpture which oscillates, giving the illusion of waves. No experience in computer-aided design(CAD) is necessary but it is highly encouraged. I hope you will join me in this endeavor!",
+                "image": "./images/workshops/FusionDalga.png"
+            },
+            "Computational Thinking Odyssey: Smart City Challenge": {
+                "description":"In this workshop, teams will tackle real-world issues, employing computational creativity to design futuristic smart cities. From coding solutions to unraveling ethical complexities, this experience promises a blend of innovation and computational brilliance. Join us for an adventure that sparks imaginations and hones computational thinking skills.",
+                "image": "./images/workshops/Compt.png"
+            },
+            "Machine Learning For Kids": {
+                "description":"Machine Learning for Kids opens a door to the magical world of technology! Get ready to discover how machines think by delving into the mysterious technologies used by giants like Google. This adventure, filled with entertaining activities and real-life examples, makes learning fun and intriguing for children!",
+                "image": "./images/workshops/MachineLearning.png"   
+            },
+            "Create Your Own Website With HTML&CSS and Javascript!": {
+                "description":"In this lecture, the participants will get to know HTML&CSS and Javascript. After the application \"Brackets\" is introduced, which they will use throughout the lecture, they will learn some code examples and what they do. Then, they will master controlling those code series using Javascript and that making complicated features. Thus, they will be able to design the UI of their own websites, meaning that the codes include the elements, and things like colors of their website, also the fonts, the images etc. When the theoretical learning is done, the participants will be let follow the instructions to design and code their websites in whichever way they like.",
+                "image": "./images/workshops/Javascript.png"   
+            }
+        },
+        "Online": {
+            "Programming Audiovisual Games in p5.js (Online)": {
+                "description":"In this workshop, we’re going to program a game with audiovisual elements using p5.js. We will sample a variety of knowledge ranging from the fields of HCI/Game design, music theory/music computing, and interactive media design. At the end of the workshop, you will have your own p5.js game. ",
+                "image": "./images/workshops/IremSu.png"
+            }
+        },
+        "Face To Face": {
+            "Lemon: Bio-Inspired Robots": {
+                "description":"Lemon is a robotics education kit that allows beginners to improve their knowledge of mechanics, electronics, 3D design, and programming while building 3 biomimetic robots. It helps develop students' understanding of robotics and computer sciences while guiding them through the robot-making procedure.",
+                "image": "./images/workshops/Lemon.png"
+            },
+            "Origami Automation: Crafting Customizable Automata": {
+                "description":"Join our unique workshop offering participants an extraordinary experience. Build various automata and customize them using origami, creating an opportunity for self-expression. Learn how to personalize your automata and be part of this distinctive experience.",
+                "image": "./images/workshops/Automata.png"
+            },
+            "Toy Factory": {
+                "description":"In this workshop, you will be able to design your own toys by using Fusion 360. You will find a company name for your products and design a logo for it. The toys you design will be given to you after they get 3D printed and your logos will be given to you as a sticker.",
+                "image": "./images/workshops/ToyFactory.png"
+            }
+        }
+    },
+    "Program Text": "Daily Program",
+    "Programs": {
+        "Day 1": {
+            "8:00 - 10:00": "Internal Event - Hisar Students Only ",
+            "12:00 - 13:00": "Opening Ceramony and Speech",
+            "13.00 - 14:50": "1st Session",
+            "15:00 - 16:50 ": "2nd Session",
+            "17:00": "Speaker TBA",
+            "18:30": "Speaker TBA",
+            "20:00": "Speaker TBA",
+            "Date": "15 December | Friday"
+        },
+        "Day 2": {
+            "09:00 - 09:30": "Welcoming",
+            "09:30 - 10:00": "Opening Ceramony and Speech",
+            "10:10 - 12:10": "1st Session",
+            "12:10 - 13:00": "Lunch Break / Brownie Wars",
+            "13:00 - 14:50": "2nd Session",
+            "15:00 - 16:50": "3rd Session",
+            "17:00 - 18:00": "Speaker TBA",
+            "18:10 - 18:40": "Closing Ceramony ",
+            "19:00 - 20:00": "Gathertown Project Fair",
+            "Date": "16 December | Saturday"
+        }
+    },
+    "Speakers": {
+        "Speaker 1": {
+            "Name": "Speaker 1",
+            "Description": "Speaker 1",
+            "Expertise": "HTML",
+            "Image": "https://via.placeholder.com/150"
+        },
+        "Speaker 2": {
+            "Name": "Speaker 2",
+            "Description": "Speaker 2",
+            "Expertise": "HTML",
+            "Image": "https://via.placeholder.com/150"
+        },
+        "Speaker 3": {
+            "Name": "Speaker 3",
+            "Description": "Speaker 3",
+            "Expertise": "HTML",
+            "Image": "https://via.placeholder.com/150"
+        }
+    },
+    "Session Text": "Workshop Sessions",
+    "Sessions": {
+       "Friday": {
+            "1st Session": [
+                "Make Your Own Creative Calculator with Java (Hybrid)",
+                "Crack Wifi Passwords and Decrypt the Encrypted Messages (Hybrid)",
+                "Idea Factory: Crafting Your Startup Story (Hybrid)",
+                "Creating digital masterpieces: Art Generation with SwiftUI Workshop (Hybrid)",
+                "Coinflip with Quantum Computing (Hybrid)",
+                "Origami Automation: Crafting Customizable Automata (Face to Face)",
+                "Toy Factory (Face to Face)",
+                "Large Language Models: AI That Can Talk (Hybrid)",
+                "Machine Learning For Kids (Hybrid)"
+            ],
+            "2nd Session": [
+                "What to expect from a server: Virtualization from scratch (Hybrid)",
+                "Lemon Bio-Inspired Robots With LEMON (Face to Face)",
+                "Python Adventure: Crafting Your Own Text-Based Game (Hybrid)",
+                "Can We Repair Old Photos? (Hybrid)",
+                "Mind of an Athlete: Predicting Penalty Positions with AI and Computer Vision (Hybrid)",
+                "Recreating Super Mario Bros with Unity 2D! (Hybrid)",
+                "Computational Thinking Odyssey: Smart City Challenge (Hybrid)",
+                "Dynamic Sculptures with Fusion360: Kinetic Wave (Hybrid)",
+                "Create your own website with HTML&CSS and Javascript! (Hybrid)"
+            ]
+       },
+       "Saturday": {
+            "1st Session": [
+                "Make Your Own Creative Calculator with Java (Hybrid)",
+                "Lemon Bio-Inspired Robots With LEMON (Face to Face)",
+                "Idea Factory: Crafting Your Startup Story (Hybrid)",
+                "Python Adventure: Crafting Your Own Text-Based Game (Hybrid)",
+                "Can we repair old photos? (Hybrid)",
+                "Recreating Super Mario Bros with Unity 2D! (Hybrid)",
+                "Origami Automation: Crafting Customizable Automata (Face to Face)",
+                "Toy Factory (Face to Face)",
+                "Computational Thinking Odyssey: Smart City Challenge (Hybrid)",
+                "Machine Learning For Kids (Hybrid)"
+            ],
+            "2nd Session": [
+                "Lemon Bio-Inspired Robots With LEMON (Face to Face)",
+                "Idea factory: Crafting your startup story (Hybrid)",
+                "Python Adventure: Crafting Your Own Text-Based Game (Hybrid)",
+                "Digital Masterpieces: Art Generation with SwiftUI Workshop (Hybrid)",
+                "Origami Automation: Crafting Customizable Automata (Face to Face)",
+                "Toy Factory (Face to Face)",
+                "Dynamic Sculptures with Fusion360: Kinetic Wave (Hybrid)",
+                "Programming Audiovisual Games in p5.js (Online)"
+            ],
+            "3rd Session": [
+                "Make Your Own Creative Calculator with Java (Hybrid)",
+                "Crack Wifi Passwords and Decrypt the Encrypted Messages (Hybrid)",
+                "What to expect from a server: Virtualization from scratch (Hybrid)",
+                "Lemon Bio-Inspired Robots With LEMON (Face to Face)",
+                "Digital Masterpieces: Art Generation with SwiftUI Workshop (Hybrid)",
+                "Can We Repair Old Photos? (Hybrid)",
+                "Unlocking the Athlete's Mind: Predicting Penalty Positions with AI and Computer Vision (Hybrid)",
+                "Coinflip with Quantum Computing (Hybrid)",
+                "Recreating Super Mario Bros with Unity 2D! (Hybrid)",
+                "Origami Automation: Crafting Customizable Automata (Face to Face)",
+                "Toy Factory (Face to Face)",
+                "Computational Thinking Odyssey: Smart City Challenge (Hybrid)",
+                "Large Language Models: AI That Can Talk (Hybrid)",
+                "Create your own website with HTML&CSS and Javascript! (Hybrid)",
+                "Machines Learning For Kids (Hybrid)"
+            ]
+        }
+    },
+    "Giant Join": "Join Coding Summit X",
+    "Join Button Text": "Fill Out Form",
+    "Location": "Where to find us?",
+    "Contact": "Contact Us"
+}

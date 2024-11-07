@@ -1,0 +1,143 @@
+@use '../utils/media-queries.scss' as *;
+@import "../utils/variables.scss";
+
+.Header-Container {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    .Header {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        padding: 1.5rem;
+        border-radius: 0.5rem;
+        margin: 0 auto 0 auto;
+        max-width: 920px;
+        @include xs {
+            max-width: unset;
+            width: 80%;
+        }   
+        
+        @include sm {
+            max-width: unset;
+            width: 80%;
+        }
+        
+        @include md {
+            max-width: unset;
+            width: 80%;
+        }
+        .super-text {
+            text-align: center;
+            color: $header-super-text-color;
+            font: $header-super-text-font;
+        }
+        
+        .title {
+            font: $header-title-font;
+            color: $header-title-color;
+            text-align: center;
+            
+            @include xs {
+                font: $header-title-font-mobile;
+            }
+        }
+
+        .description {
+            font: $header-text-font;
+            color: $header-text-color;
+            text-align:justify;
+            text-align-last: center;
+            
+        }
+        
+        .button-container {
+            display: flex;
+            margin-left: auto;
+            margin-right: auto;
+            gap: 3rem;
+            button {
+
+                width: 17rem;
+                padding: .5rem;
+                font: $header-button-font;
+                border-radius: 1.5rem;
+                border: 0 none;
+                background-size: 100% 100%;
+                background-position: left;
+                transition: all 0.5s ease-in-out;
+                background-repeat: no-repeat;
+                cursor: pointer;
+                
+                &:after {
+                    
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                    width: 100%;
+                    height: 100%;
+                    transform: scaleX(1);
+                    transition: all 0.3s ease-in-out;
+                    border-radius: 1.5rem;
+                }
+                
+                &:hover:before {
+                    width: 100%;
+                }
+            }
+            
+            .button-one {
+                background: $header-button-1-background;
+                color: $header-button-1-color;
+                position: relative;
+                &:hover {
+                    background: $header-button-1-hover;
+                    scale: 1.2;
+                }
+            }
+            
+            .button-two {
+                background: $header-button-2-background;
+                color: $header-button-2-color;
+            
+                &:hover {
+                    background: $header-button-2-hover;
+                    scale: 1.2;
+                }
+            }
+            
+            @include xs {
+                flex-direction: column;
+                margin-top: 1rem;
+                button {
+                    margin-left: auto;
+                    margin-right: auto;
+                }
+            }
+            @include sm {
+                margin-top: 1rem;
+                flex-direction: column;
+                button {
+                    margin-left: auto;
+                    margin-right: auto;
+                }
+            }
+            @include md {
+                margin-top: 1rem;
+                button {
+                    margin-left: auto;
+                    margin-right: auto;
+                }
+            }
+        }
+    }
+    
+    @include lt-sm {
+       .Header {
+            width: 95%;
+       } 
+    }
+}

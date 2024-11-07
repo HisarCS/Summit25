@@ -1,0 +1,65 @@
+@use '../utils/media-queries.scss' as *;
+@import "../utils/variables.scss";
+
+.Header-Section {
+    padding: 20vh 0 25vh 0;
+    background-color: $section-header-background;
+    width: 100%;
+}
+
+.Fablab-Section {
+    width: 100%;
+    height: fit-content;
+    background-color: $section-fablab-background;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Gathertown-Section {
+    width: 100%;
+    height: fit-content;
+    background-color: $section-gathertown-background;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.Workshop-Section {
+    width: 100%;
+    height: fit-content;
+    background-color: $section-workshop-background;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Program-Section {
+    width: 100%;
+    height: fit-content;
+    background-color: $section-program-background;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Workshop-Schedule-Section {
+    width: 100%;
+    height: fit-content;
+    background-color: $section-workshop-schedule-background;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 3rem 2rem;
+}
+
+.Footer-Section {
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: $section-footer-background;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}

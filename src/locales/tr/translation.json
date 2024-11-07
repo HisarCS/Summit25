@@ -1,0 +1,225 @@
+{
+    "Super-Text": "On Yıllık Öğrenme",
+    "Title" : "10. Hisar Kodlama Zirvesi",
+    "About Us": "Dijital dönüşüm kapsamında öğrencilerimizin potansiyelini geliştirmek amacıyla yola çıkılan Hisar Kodlama Zirvesi, bu yıl 10. kez 15-16 Aralık 2023 tarihlerinde Hisar Okullarında gerçekleştirilecek. Hisar Kodlama Zirvesi 20'den fazla atölye ve 3 konuşmacı ile hem İngilizce hem de Türkçe olarak uluslararası bir etkinlik olacak.",
+    "Join Button": "Zireveye Katılın!",
+    "See Program": "Programı Görüntüle",
+    "Navbar": {
+        "Home": {"name": "Ana Sayfa", "link": "/#home"},
+        "About Us": {"name": "Biz Kimiz?", "link": "/#about-us"},
+        "10th Event Schedule": {"name": "10. Zirve Programı", "link": "/#program"},
+        "Join Coding Summit": {"name": "Coding Summit'e Katılın", "link": "/#join"}
+    },
+    "Fablab Header": "FabLab: Idealab",
+    "Fablab Text": "Son on yıldır, Idealab, sınırsız yaratıcılığın ve işbirlikçi ruhun hayalleri gerçeğe dönüştürmek için bir araya geldiği gelişen bir maker alanı olarak inovasyonun kalbinin attığı yer olmuştur. ",
+    "Fablab Image Text 1": "2013'ten beri",
+    "Fablab Image Text 2": "Öğrenmenin Gücüyle kodluyoruz",
+    "Gathertown Title": "Gathertown: Proje Fuarı",
+    "Gathertown Text": "10. Hisar Kodlama Zirvesi Proje Fuarımız online olarak GatherTown üzerinden düzenlenecektir. Biz, yenilik ve teknolojinin kesişim noktasında yer alan her türlü disiplinler arası alana ve Öğrenmenin On Yılı: Yeniliği ve Etkiyi Kutlama mottomuza uygun tüm projelere açığız. ",
+    "Gathertown Button Text": "Sunucu olarak katılın",
+    "Gathertown Button Link": "https://forms.gle/W2kuPtrDZEDxWb2F9",
+    "Workshop Text": "Öğrenmenin Gücüyle kodluyoruz",
+    "Workshops": {
+        "Hibrit": {
+            "Java ile Yaratıcı Hesap Makinesi Yapımı": {
+                "description":"Hepiniz 2+2'yi toplayan bir hesap makinesi gördünüz. Peki mavi ve kırmızıyı veya tavuklar ve keçileri toplayan bir hesap makinesi gördünüz mü? Dünyada en çok kullanılan programlama dili Java'yı kullanarak object oriented coding programlamanın temel kavramlarını öğrenirken isteğimize göre bir yaratıcı bir hesap makinesi oluşturalım.",
+                "image": "./images/workshops/java.png"
+            },
+            "Wifilere Sızın ve Şifreli Mesajları Çözün": {
+                "description":"Günümüzde herkesin evinde wifi var. Coding Summit’te herhangi bir wifi şifresini nasıl çözebileceğinizi öğreneceğiniz bir eğitime katılın. Bu eğitimde aynı zamanda en çok kullanılan şifreleme yöntemlerini kodlayarak ve kodlamayarak çözmeyi de öğreneceksiniz.",
+                "image": "./images/workshops/Encyption.png"
+            },
+            "Fikir Fabrikası: Girişimcilik Hikayenizi Yazmaya Başlayın": {
+                "description":"Girişim dünyasının büyülü yolculuğuna hoş geldiniz! Bu atölye içinizdeki girişimci ruhu uyandırmanızı ve fikirlerinizi başarılı bir start-up'a dönüştürmeyinizi sağlayacaktır. Pratik deneyimlerle dolu bu serüvende sadece öğrenmekle kalmayacak, eğlence ve maceranın tadını çıkaracaksınız! Bize katılın ve bugün başarıya giden yolculuğunuza ilk adımı atın.",
+                "image": "./images/workshops/Entrepreneurship.png"
+            },
+            "Bir Sunucudan Beklenenler: Sıfırdan Sanallaştırma": {
+                "description":"Büyük şirketler bir bilgisayardan bütün şirketin bilgisayarlarını nasıl kontrol ediyor? Hackerlar neden Windows veya Mac kullanmazlar? Bir internet sitesini çökmekten nasıl kurtarabiliriz? Siz de bu soruların cevabını merak ediyorsanız bu eğitim tam size göre.",
+                "image": "./images/workshops/Server.png"
+            },
+            "Dijital Şaheserler Yaratma: SwiftUI ile Sanat Üretimi Atölyesi": {
+                "description":"Atölyemizle bir dijital sanatçı olun! SwiftUI'ın gücünü kullanmayı öğrenin ve etkileyici sanat üreten uygulamalar oluşturun. Kodlama ve yaratıcılığın bir araya geldiği bu atölyede içinizdeki sanatçınızı serbest bırakın. Bize katılın ve sanatsal vizyonunuzu kod aracılığıyla hayata geçirin. ",
+                "image": "./images/workshops/SwiftUI.png"
+            },
+            "Kuantum Bilişim ile Yazı Tura": {
+                "description":"Hayatınızda illa ki karşınıza \"kuantum\" kelimesi çıkmıştır, peki bu ne demektir? Bu eğitimde temel düzeyde kuantum prensipleri öğrenecek ve öğrenilmesi kolay olan Python yazılım dili üstünden yazı-tura yapacaksınız. ",
+                "image": "./images/workshops/Quantum.png"
+            },
+            "Büyük Dil Modelleri: Konuşan Yapay Zeka": {
+                "description":"Herkes ChatGPT’yi duymuş veya kullanmıştır, ancak aslında nasıl çalışmaktadır? Bu derste, Büyük Dil Modellerinin altyapı ve arkaplanlarına bakıp nasıl çalıştıklarını öğreneceğiz. Bunun yanında, günümüzde kullanılan modellere bakıp, mantıklarını anlayıp kendimiz nasıl yapabileceğimizi öğreneceğiz.",
+                "image": "./images/workshops/LLM.png"
+            },
+            "Python ile Kendi Yazı Tabanlı Hikaye Oyununuzu Yazın": {
+                "description":"Hiç kendi hikayeli oyununuzu yazmayı düşündünüz mü? Python’la birlikte kendi yazı tabanlı hikaye oyununuzu kendi istediğiniz şekilde yazabilirsiniz. Karakterlerden senaryoya kadar herşeyi Python’un ve programlamanın basit prensipleriyle gerçekleştirecek ve Python’a bir giriş yapacaksın.",
+                "image": "./images/workshops/Python.png"
+            },
+            "Eski fotoğrafları nasıl onarırız?": {
+                "description":"Eski bir fotoğrafın yepyeni görünmesini nasıl sağlayabileceğinizi hiç merak ettiniz mi? İşte bu derste bunu gerçekleştirmek için Adobe Photoshop araçlarını ve çalışma alanını nasıl kullanacağımızı öğreneceğiz! Aynı zamanda, fotoğrafları birleştirerek kendi sanat eserlerinizi yapacaksınız!",
+                "image": "./images/workshops/Photoshop.png"
+            },
+            "Sporcunun Zihnine Bir Bakış: Yapay Zeka ve Bilgisayar Görüşüyle Penaltı Tahmini": {
+                "description":"Bir sporcunun zihnini okumak mümkün mü? Bu derste, futbol penaltı pozisyonlarını bilgisayar görüşü ve yapay zeka kullanarak analiz edeceğiz. Projemizin amacı oyuncunun kalenin hangi bölgesine vurmayı hedeflediğini tahmin edebilen bir model tasarlamak. Geleceği görmeye hazır mısınız?",
+                "image": "./images/workshops/AIMessi.png"
+            },
+            "Unity 2D ile Super Mario Bros Yapıyoruz!": {
+                "description":"Bu kursun sonunda kendinize özel bir Super Mario Bros. oyununa sahip olacaksınız ve oyun tasarımının temellerini, C# dilini öğrenmiş ve Unity Motor'unu ve kütüphanesini orta düzeyde öğrenmiş olacaksınız. Oyun Tasarımına hoş geldiniz.",
+                "image": "./images/workshops/Mario.png"
+            },
+            "Fusion360 ile Dinamik Heykel Yapımı: Kinetik Dalga": {
+                "description":"Bu kursta dalga hareketi yapan bir makineyi tasarlayarak 3D tasarım ve prototipleme öğreneceksiniz. Bilgisayar destekli tasarım(CAD) tecrübesi gerekli değildir fakat önerilir. Umarım heykel yapımında bana katılırsınız!",
+                "image": "./images/workshops/FusionDalga.png"
+            },
+            "Algoritmik Düşünce Macerası: Akıllı Şehirini Yarat!": {
+                "description":"Öğrenciler gerçek dünya sorunlarına çözüm üretirken algoritmik düşünceye dalarlar. Çözümler kodlama, etik sorumlulukları anlama ve hesaplamalı düşüncenin yaratıcılığıyla etkileşimli bir şekilde buluşur. Hayal gücünü ve hesaplamalı düşünce becerilerini kullanan bir maceraya çıkın! ",
+                "image": "./images/workshops/Compt.png"
+            },
+            "Çocuklar için Makine Öğrenimi": {
+                "description":"Çocuklar için Makine Öğrenimi, teknolojinin sihirli dünyasına açılan bir kapı! Google ve diğer büyük şirketlerin kullandığı gizemli teknolojilerle tanışarak, makinelerin nasıl düşündüğünü keşfetmeye hazır olun. Eğlenceli aktiviteler ve gerçek hayattan örneklerle dolu bu macera, çocuklara öğrenmeyi eğlenceli ve merak uyandırıcı hale getiriyor!",
+                "image": "./images/workshops/MachineLearning.png"   
+            },
+            "HTML&CSS ve Javascript ile Kendi Websitenizi Oluşturun!": {
+                "description":"Öğrenciler bu derste HTML&CSS ve Javascript’in ne olduğunu tanıyacak. Eğitim boyunca kullanacakları \"Brackets\" uygulamasının da tanıtımı yapıldıktan sonra birkaç örnek kod dizisinin ne anlama geldiğini ve ne işe yaradığını öğrenirler. Sonrasında bu kod dizilerini Javascript öğrenerek kontrol etmeyi ve bunla websitelere Javascript ile karmaşık özellikler eklemeyi öğrenirler. Bu sayede öğrenciler websitelerinin UI'ını tasarlayabilir duruma gelirler, yani kod dizileri; websitenin elemanlarını, rengini, eklenecek yazıların tipini vs. içerir. Tüm teorik eğitim tamamlandıktan sonra öğrenciler yönergeleri takip ederek kendi websitelerini istedikleri formda hazırlamaya hazır olurlar.",
+                "image": "./images/workshops/Javascript.png"   
+            }
+        },
+        "Çevrimiçi": {
+            "Görsel-İşitsel Oyun Programlama (Çevrimiçi)": {
+                "description":"Bu atölyede p5.js kullanarak görsel-işitsel öğeler içeren interaktif bir oyun programlayacağız. İnsan-Bilgisayar Etkileşimi/Oyun tasarımı, müzik teorisi/bilişimi ve etkileşimli medya tasarımı alanlarından geniş bir bilgi yelpazesini örnekleyeceğiz ve bu disiplinlerin nasıl kesiştiğini öğreneceğiz. Atölye sonunda katılımcılar kendi p5.js oyunlarını oluşturacaklar.",
+                "image": "./images/workshops/IremSu.png"
+            }
+        },
+        "Yüz yüze": {
+            "Lemon İle Biyo-İlhamlı Robotlar İnşa Etmek": {
+                "description":"Lemon, bireylere başlangıç seviyesinde mekanik, elektronik, 3D tasarım ve programlama bilgilerini sırasıyla 3 biyomimetik robot yaparak öğreten bir robotik eğitim kitidir. Öğrencilerin robot yapma prosedürünü keşfetmelerinde yol gösterirken, Lemon aynı zamanda robotik ve bilgisayar bilimleri konusundaki anlayışlarını geliştirmeye yardımcı olur.",
+                "image": "./images/workshops/Lemon.png"
+            },
+            "Origami Otomasyonu: Kişiselleştirilebilir Otomatalar Oluşturma": {
+                "description":"Katılımcılarımıza özgün bir deneyim sunan atölyemize katılın! Farklı otomatlar inşa edin ve onları origami ile özelleştirerek kendinizi ifade etme fırsatını yakalayın. Otomatlarınızı nasıl kişiselleştireceğinizi öğrenin ve bu benzersiz deneyime katılın.",
+                "image": "./images/workshops/Automata.png"
+            },
+            "Oyuncak Fabrikası": {
+                "description":"Bu oyuncak tasarım atölyesinde katılımcılar Fusion 360 ile kendi oyuncaklarını tasarlayabilecekler. Tasarladıklarınız bu oyuncaklar için bir şirket adı ve logosu düşüneceksiniz. Daha sonrasında oyuncaklarınız 3D yazıcılar aracılığıyla basılır ve logolarınız size sticker şeklinde verilecek.",
+                "image": "./images/workshops/ToyFactory.png"
+            }
+
+        }
+    },
+    "Program Text": "Günlük Program",
+    "Programs": {
+        "2. Gün": {
+            "8:00 - 10:00": "İç Etkinlik(Hisar Öğrencilerine Özel)",
+            "12:00 - 13:00": "Açılış Seramonisi ve Konuşması",
+            "13.00 - 14:50": "1. Oturum",
+            "15:00 - 16:50 ": "2. Oturum",
+            "17:00": "Konuşmacı TBA",
+            "18:30": "Konuşmacı TBA",
+            "20:00": "Konuşmacı TBA",
+            "Date": "15 Aralık | Cuma"
+        },
+        "1. Gün": {
+            "09:00 - 09:30": "Karşılama",
+            "09:30 - 10:00": "Açılılş Seramonisi ve Konuşması",
+            "10:10 - 12:10": "1. Oturum",
+            "12:10 - 13:00": "Öğlen Arası / Brownie Savaşları",
+            "13:00 - 14:50": "2. Oturum",
+            "15:00 - 16:50": "3. Oturum",
+            "17:00 - 18:00": "Konuşmacı TBA",
+            "18:10 - 18:40": "Kapanış Seremonisi ",
+            "19:00 - 20:00": "Gathertown Proje Fuarı",
+            "Date": "16 Aralık | Cumartesi"
+        }
+    },
+    "Speakers": {
+        "Speaker 1": {
+            "Name": "Speaker 1",
+            "Description": "Speaker 1",
+            "Expertise": "HTML",
+            "Image": "https://via.placeholder.com/150"
+        },
+        "Speaker 2": {
+            "Name": "Speaker 2",
+            "Description": "Speaker 2",
+            "Expertise": "HTML",
+            "Image": "https://via.placeholder.com/150"
+        },
+        "Speaker 3": {
+            "Name": "Speaker 3",
+            "Description": "Speaker 3",
+            "Expertise": "HTML",
+            "Image": "https://via.placeholder.com/150"
+        }
+    },
+    	
+    "Session Text": "Atölye Oturumları",
+    "Sessions": {
+       "Cuma": {
+            "1. Oturum": [	
+                "Java ile Yaratıcı Hesap Makinesi Yapımı (Hibrit)",
+                "Wifilere Sızın ve Şifreli Mesajları Çözün (Hibrit)",
+                "Fikir Fabrikası: Girişimcilik Hikayenizi Yazmaya Başlayın (Hibrit)",
+                "Dijital Şaheserler Yaratma: SwiftUI ile Sanat Üretimi Atölyesi (Hibrit)",
+                "Kuantum Bilişim ile Yazı Tura (Hibrit)",
+                "Origami Otomasyonu: Kişiselleştirilebilir Otomatalar Oluşturma (Yüz Yüze)",
+                "Oyuncak Fabrikası (Yüz Yüze)",
+                "Büyük Dil Modelleri: Konuşan Yapay Zeka (Hibrit)",
+                "Çocuklar İçin Makine Öğrenimi (Hibrit)"
+            ],
+            "2. Oturum": [
+                "Bir Sunucudan Beklenenler: Sıfırdan Sanallaştırma (Hibrit)",
+                "Lemon İle Biyo-İlhamlı Robotlar İnşa Etmek  (Yüz Yüze)",
+                "Python ile Kendi Yazı Tabanlı Hikaye Oyununuzu Yazın (Hibrit)",
+                "Eski fotoğrafları nasıl onarırız? (Hibrit)",
+                "Sporcunun Zihnine Bir Bakış: Yapay Zeka ve Bilgisayar Görüşüyle Penaltı Pozisyonlarını Tahmin Etmek (Hibrit)",
+                "Unity 2D ile Super Mario Bros Yapıyoruz! (Hibrit)",
+                "Algoritmik Düşünce Macerası: Akıllı Şehirini Yarat! (Hibrit)",
+                "Fusion360 ile Dinamik Heykel Yapımı: Kinetik Dalga (Hibrit)",
+                "HTML&CSS ve Javascript ile Kendi Websitenizi Oluşturun! (Hibrit)"
+            ]
+       },
+       "Cumartesi": {
+            "1. Oturum": [
+                "Java ile Yaratıcı Hesap Makinesi Yapımı (Hibrit)",
+                "Lemon İle Biyo-İlhamlı Robotlar İnşa Etmek (Yüz Yüze)",
+                "Fikir Fabrikası: Girişimcilik Hikayenizi Yazmaya Başlayın (Hibrit)",
+                "Python ile Kendi Yazı Tabanlı Hikaye Oyununuzu Yazın (Hibrit)",
+                "Eski fotoğrafları nasıl onarırız? (Hibrit)",
+                "Unity 2D ile Super Mario Bros Yapıyoruz! (Hibrit)",
+                "Origami Otomasyonu: Kişiselleştirilebilir Otomatalar Oluşturma (Yüz Yüze)",
+                "Oyuncak Fabrikası (Yüz Yüze)",
+                "Algoritmik Düşünce Macerası: Akıllı Şehirini Yarat! (Hibrit)",
+                "Çocuklar İçin Makine Öğrenimi (Hibrit)"
+            ],
+            "2. Oturum": [
+                "Lemon İle Biyo-İlhamlı Robotlar İnşa Etmek (Yüz Yüze)",
+                "Fikir Fabrikası: Girişimcilik Hikayenizi Yazmaya Başlayın (Hibrit)",
+                "Python ile Kendi Yazı Tabanlı Hikaye Oyununuzu Yazın (Hibrit)",
+                "Dijital Şaheserler Yaratma: SwiftUI ile Sanat Üretimi Atölyesi (Hibrit)",
+                "Origami Otomasyonu: Kişiselleştirilebilir Otomatalar Oluşturma (Yüz Yüze)",
+                "Oyuncak Fabrikası (Yüz Yüze)",
+                "Fusion360 ile Dinamik Heykel Yapımı: Kinetik Dalga (Hibrit)",
+                "Görse-İşitsel Oyun Programlama (Çevrimiçi)"
+            ],
+            "3. Oturum": [
+                "Java ile Yaratıcı Hesap Makinesi Yapımı (Hibrit)",
+                "Wifilere Sızın ve Şifreli Mesajları Çözün (Hibrit)",
+                "Bir Sunucudan Beklenenler: Sıfırdan Sanallaştırma (Hibrit)",
+                "Lemon İle Biyo-İlhamlı Robotlar İnşa Etmek (Yüz Yüze)",
+                "Dijital Şaheserler Yaratma: SwiftUI ile Sanat Üretimi Atölyesi (Hibrit)",
+                "Eski fotoğrafları nasıl onarırız? (Hibrit)",
+                "Sporcunun Zihnine Bir Bakış: Yapay Zeka ve Bilgisayar Görüşüyle Penaltı Pozisyonlarını Tahmin Etmek (Hibrit)",
+                "Kuantum Bilişim ile Yazı Tura (Hibrit)",
+                "Unity 2D ile Super Mario Bros Yapıyoruz! (Hibrit)",
+                "Origami Otomasyonu: Kişiselleştirilebilir Otomatalar Oluşturma (Yüz Yüze)",
+                "Oyuncak Fabrikası (Yüz Yüze)",
+                "Algoritmik Düşünce Macerası: Akıllı Şehirini Yarat! (Hibrit)",
+                "Büyük Dil Modelleri: Konuşan Yapay Zeka (Hibrit)",
+                "HTML&CSS ve Javascript ile Kendi Websitenizi Oluşturun! (Hibrit)",
+                "Çocuklar İçin Makine Öğrenimi (Hibrit)"
+            ]
+        }
+    },
+    "Giant Join": "Coding Summit X'e Katıl",
+    "Join Button Text": "Formu doldurun",
+    "Location": "Bizi nerede bulabilirsiniz?",
+    "Contact": "Bize Ulaşın"
+}
