@@ -1,13 +1,13 @@
 {
     "Super-Text": "On Yıllık Öğrenme",
-    "Title" : "10. Hisar Kodlama Zirvesi",
-    "About Us": "Dijital dönüşüm kapsamında öğrencilerimizin potansiyelini geliştirmek amacıyla yola çıkılan Hisar Kodlama Zirvesi, bu yıl 10. kez 15-16 Aralık 2023 tarihlerinde Hisar Okullarında gerçekleştirilecek. Hisar Kodlama Zirvesi 20'den fazla atölye ve 3 konuşmacı ile hem İngilizce hem de Türkçe olarak uluslararası bir etkinlik olacak.",
+    "Title" : "11. Hisar Kodlama Zirvesi",
+    "About Us": "Dijital dönüşüm kapsamında öğrencilerimizin potansiyelini geliştirmek amacıyla yola çıkılan Hisar Kodlama Zirvesi, bu yıl 11. kez 13-14 Aralık 2024 tarihlerinde Hisar Okullarında gerçekleştirilecek. Hisar Kodlama Zirvesi 20'den fazla atölye ve 3 konuşmacı ile hem İngilizce hem de Türkçe olarak uluslararası bir etkinlik olacak.",
     "Join Button": "Zireveye Katılın!",
     "See Program": "Programı Görüntüle",
     "Navbar": {
         "Home": {"name": "Ana Sayfa", "link": "/#home"},
         "About Us": {"name": "Biz Kimiz?", "link": "/#about-us"},
-        "10th Event Schedule": {"name": "10. Zirve Programı", "link": "/#program"},
+        "10th Event Schedule": {"name": "11. Zirve Programı", "link": "/#program"},
         "Join Coding Summit": {"name": "Coding Summit'e Katılın", "link": "/#join"}
     },
     "Fablab Header": "FabLab: Idealab",
@@ -114,7 +114,7 @@
             "17:00": "Konuşmacı TBA",
             "18:30": "Konuşmacı TBA",
             "20:00": "Konuşmacı TBA",
-            "Date": "15 Aralık | Cuma"
+            "Date": "13 Aralık | Cuma"
         },
         "1. Gün": {
             "09:00 - 09:30": "Karşılama",
@@ -126,7 +126,7 @@
             "17:00 - 18:00": "Konuşmacı TBA",
             "18:10 - 18:40": "Kapanış Seremonisi ",
             "19:00 - 20:00": "Gathertown Proje Fuarı",
-            "Date": "16 Aralık | Cumartesi"
+            "Date": "14 Aralık | Cumartesi"
         }
     },
     "Speakers": {
