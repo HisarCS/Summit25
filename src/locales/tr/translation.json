@@ -27,7 +27,7 @@
             },
             "Bilgisayar Görüşüyle Spor İstatistiği Tutmak ve Tahminler Yapmak": {
                 "description":"Bu atölyede Python ve OpenCV kullanarak futbol maçlarını analiz etmeyi öğrenin! Bilgisayarla görme teknikleriyle futbol sahasındaki oyuncu hareketlerini, top kontrolünü ve pozisyonları analiz ederek, istatistiklerini otomatik olarak kaydedeceksiniz. Bu istatistikler ile çeşitli tahminler yapacaksınız! Eğitimin sonunda bunları yapan bir uygulama geliştirmiş olacaksınız. Bilgisayar Görmesi ve Veri Analizi becerilerini geliştir!",
-                "image": "./images/workshops/IntroductionToAI.png"
+                "image": "./images/workshops/x.png"
             },
             "Çocuklar için Makine Öğrenimi": {
                 "description":"Bu ders kapsaminda, ögrenciler interaktif aktiviteler aracılığıyla makine ögrenimi konusuna tanitilacaklardir. Model eğitimi yapmayi, tahminlerde bulunmayı ve yapay zeka etiği konularina giriş yapacaklardir. Bu eğitim, ögrencilere heyecan verici bir sekilde teknolojinin temellerini eglenceli ve ilgi ekici bir sekilde sunmak için tasarlanmistir.",
