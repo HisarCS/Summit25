@@ -25,61 +25,69 @@
                 "description":"Bu derste, öğrenciler yapay zekanın temellerini keşfedecek, yapay sinir ağları kavramına ve ChatGPT gibi Büyük Dil Modellerine (LLM) odaklanacaklardır. Bu sistemlerin, hesaplamalar ve örüntü tanıma yollarıyla  nasıl metin tahmin ettiklerini, denetimli ve denetimsiz öğrenme kavramlarını öğrenecek ve yapay zekanın nasıl eğitildiği hakkında bilgi sahibi olacaklardır.",
                 "image": "./images/workshops/IntroductionToAI.png"
             },
-            "Wifilere Sızın ve Şifreli Mesajları Çözün": {
-                "description":"Günümüzde herkesin evinde wifi var. Coding Summit’te herhangi bir wifi şifresini nasıl çözebileceğinizi öğreneceğiniz bir eğitime katılın. Bu eğitimde aynı zamanda en çok kullanılan şifreleme yöntemlerini kodlayarak ve kodlamayarak çözmeyi de öğreneceksiniz.",
-                "image": "./images/workshops/Encyption.png"
-            },
-            "Fikir Fabrikası: Girişimcilik Hikayenizi Yazmaya Başlayın": {
-                "description":"Girişim dünyasının büyülü yolculuğuna hoş geldiniz! Bu atölye içinizdeki girişimci ruhu uyandırmanızı ve fikirlerinizi başarılı bir start-up'a dönüştürmeyinizi sağlayacaktır. Pratik deneyimlerle dolu bu serüvende sadece öğrenmekle kalmayacak, eğlence ve maceranın tadını çıkaracaksınız! Bize katılın ve bugün başarıya giden yolculuğunuza ilk adımı atın.",
-                "image": "./images/workshops/Entrepreneurship.png"
-            },
-            "Bir Sunucudan Beklenenler: Sıfırdan Sanallaştırma": {
-                "description":"Büyük şirketler bir bilgisayardan bütün şirketin bilgisayarlarını nasıl kontrol ediyor? Hackerlar neden Windows veya Mac kullanmazlar? Bir internet sitesini çökmekten nasıl kurtarabiliriz? Siz de bu soruların cevabını merak ediyorsanız bu eğitim tam size göre.",
-                "image": "./images/workshops/Server.png"
-            },
-            "Dijital Şaheserler Yaratma: SwiftUI ile Sanat Üretimi Atölyesi": {
-                "description":"Atölyemizle bir dijital sanatçı olun! SwiftUI'ın gücünü kullanmayı öğrenin ve etkileyici sanat üreten uygulamalar oluşturun. Kodlama ve yaratıcılığın bir araya geldiği bu atölyede içinizdeki sanatçınızı serbest bırakın. Bize katılın ve sanatsal vizyonunuzu kod aracılığıyla hayata geçirin. ",
-                "image": "./images/workshops/SwiftUI.png"
-            },
-            "Kuantum Bilişim ile Yazı Tura": {
-                "description":"Hayatınızda illa ki karşınıza \"kuantum\" kelimesi çıkmıştır, peki bu ne demektir? Bu eğitimde temel düzeyde kuantum prensipleri öğrenecek ve öğrenilmesi kolay olan Python yazılım dili üstünden yazı-tura yapacaksınız. ",
-                "image": "./images/workshops/Quantum.png"
-            },
-            "Büyük Dil Modelleri: Konuşan Yapay Zeka": {
-                "description":"Herkes ChatGPT’yi duymuş veya kullanmıştır, ancak aslında nasıl çalışmaktadır? Bu derste, Büyük Dil Modellerinin altyapı ve arkaplanlarına bakıp nasıl çalıştıklarını öğreneceğiz. Bunun yanında, günümüzde kullanılan modellere bakıp, mantıklarını anlayıp kendimiz nasıl yapabileceğimizi öğreneceğiz.",
-                "image": "./images/workshops/LLM.png"
-            },
-            "Python ile Kendi Yazı Tabanlı Hikaye Oyununuzu Yazın": {
-                "description":"Hiç kendi hikayeli oyununuzu yazmayı düşündünüz mü? Python’la birlikte kendi yazı tabanlı hikaye oyununuzu kendi istediğiniz şekilde yazabilirsiniz. Karakterlerden senaryoya kadar herşeyi Python’un ve programlamanın basit prensipleriyle gerçekleştirecek ve Python’a bir giriş yapacaksın.",
-                "image": "./images/workshops/Python.png"
-            },
-            "Eski fotoğrafları nasıl onarırız?": {
-                "description":"Eski bir fotoğrafın yepyeni görünmesini nasıl sağlayabileceğinizi hiç merak ettiniz mi? İşte bu derste bunu gerçekleştirmek için Adobe Photoshop araçlarını ve çalışma alanını nasıl kullanacağımızı öğreneceğiz! Aynı zamanda, fotoğrafları birleştirerek kendi sanat eserlerinizi yapacaksınız!",
-                "image": "./images/workshops/Photoshop.png"
-            },
-            "Sporcunun Zihnine Bir Bakış: Yapay Zeka ve Bilgisayar Görüşüyle Penaltı Tahmini": {
-                "description":"Bir sporcunun zihnini okumak mümkün mü? Bu derste, futbol penaltı pozisyonlarını bilgisayar görüşü ve yapay zeka kullanarak analiz edeceğiz. Projemizin amacı oyuncunun kalenin hangi bölgesine vurmayı hedeflediğini tahmin edebilen bir model tasarlamak. Geleceği görmeye hazır mısınız?",
-                "image": "./images/workshops/AIMessi.png"
-            },
-            "Unity 2D ile Super Mario Bros Yapıyoruz!": {
-                "description":"Bu kursun sonunda kendinize özel bir Super Mario Bros. oyununa sahip olacaksınız ve oyun tasarımının temellerini, C# dilini öğrenmiş ve Unity Motor'unu ve kütüphanesini orta düzeyde öğrenmiş olacaksınız. Oyun Tasarımına hoş geldiniz.",
-                "image": "./images/workshops/Mario.png"
-            },
-            "Fusion360 ile Dinamik Heykel Yapımı: Kinetik Dalga": {
-                "description":"Bu kursta dalga hareketi yapan bir makineyi tasarlayarak 3D tasarım ve prototipleme öğreneceksiniz. Bilgisayar destekli tasarım(CAD) tecrübesi gerekli değildir fakat önerilir. Umarım heykel yapımında bana katılırsınız!",
-                "image": "./images/workshops/FusionDalga.png"
-            },
-            "Algoritmik Düşünce Macerası: Akıllı Şehirini Yarat!": {
-                "description":"Öğrenciler gerçek dünya sorunlarına çözüm üretirken algoritmik düşünceye dalarlar. Çözümler kodlama, etik sorumlulukları anlama ve hesaplamalı düşüncenin yaratıcılığıyla etkileşimli bir şekilde buluşur. Hayal gücünü ve hesaplamalı düşünce becerilerini kullanan bir maceraya çıkın! ",
-                "image": "./images/workshops/Compt.png"
+            "Bilgisayar Görüşüyle Spor İstatistiği Tutmak ve Tahminler Yapmak": {
+                "description":"Bu atölyede Python ve OpenCV kullanarak futbol maçlarını analiz etmeyi öğrenin! Bilgisayarla görme teknikleriyle futbol sahasındaki oyuncu hareketlerini, top kontrolünü ve pozisyonları analiz ederek, istatistiklerini otomatik olarak kaydedeceksiniz. Bu istatistikler ile çeşitli tahminler yapacaksınız! Eğitimin sonunda bunları yapan bir uygulama geliştirmiş olacaksınız. Bilgisayar Görmesi ve Veri Analizi becerilerini geliştir!",
+                "image": "./images/workshops/IntroductionToAI.png"
             },
             "Çocuklar için Makine Öğrenimi": {
-                "description":"Çocuklar için Makine Öğrenimi, teknolojinin sihirli dünyasına açılan bir kapı! Google ve diğer büyük şirketlerin kullandığı gizemli teknolojilerle tanışarak, makinelerin nasıl düşündüğünü keşfetmeye hazır olun. Eğlenceli aktiviteler ve gerçek hayattan örneklerle dolu bu macera, çocuklara öğrenmeyi eğlenceli ve merak uyandırıcı hale getiriyor!",
-                "image": "./images/workshops/MachineLearning.png"   
+                "description":"Bu ders kapsaminda, ögrenciler interaktif aktiviteler aracılığıyla makine ögrenimi konusuna tanitilacaklardir. Model eğitimi yapmayi, tahminlerde bulunmayı ve yapay zeka etiği konularina giriş yapacaklardir. Bu eğitim, ögrencilere heyecan verici bir sekilde teknolojinin temellerini eglenceli ve ilgi ekici bir sekilde sunmak için tasarlanmistir.",
+                "image": "./images/workshops/IntroductionToAI.png"
             },
-            "HTML&CSS ve Javascript ile Kendi Websitenizi Oluşturun!": {
-                "description":"Öğrenciler bu derste HTML&CSS ve Javascript’in ne olduğunu tanıyacak. Eğitim boyunca kullanacakları \"Brackets\" uygulamasının da tanıtımı yapıldıktan sonra birkaç örnek kod dizisinin ne anlama geldiğini ve ne işe yaradığını öğrenirler. Sonrasında bu kod dizilerini Javascript öğrenerek kontrol etmeyi ve bunla websitelere Javascript ile karmaşık özellikler eklemeyi öğrenirler. Bu sayede öğrenciler websitelerinin UI'ını tasarlayabilir duruma gelirler, yani kod dizileri; websitenin elemanlarını, rengini, eklenecek yazıların tipini vs. içerir. Tüm teorik eğitim tamamlandıktan sonra öğrenciler yönergeleri takip ederek kendi websitelerini istedikleri formda hazırlamaya hazır olurlar.",
-                "image": "./images/workshops/Javascript.png"   
+            "AR etkileşimli mekanik sistemler: Automata": {
+                "description":"Otomata, K12 seviyesindeki öğrencilere mekanik sistemleri anlatabilmek için tasarladığımız ve ürettiğimiz 3D kitlerdir. Çark ve kam sistemleri gibi temel, günlük hayatta sıklıkla karşımıza çıkan sistemleri öğretmek içindir. Bu sistemlerin çalışma prensiplerini gözlemleyebilmek için de AR aracılığıyla, kitlerle etkileşimli, hayal gücünüzün sınırlarını zorlayacak özelleştirilmiş hareketli görseller!",
+                "image": "./images/workshops/IntroductionToAI.png"
+            },
+            "Lemon ile Biyo-İlhamlı Robotlar İnşa Etmek": {
+                "description":"Lemon, başlangıc seviyesindeki kişilerin mekanik, elektronik, 3D tasarım ve programlama bilgilerini geliştirebilecekleri bir robotik eğitim kiti olup, sırasıyla 3 biyomimetrik robot yaparak geliştirmelerini sağlar. Lemon, öğrencilerin robot yapma prosedürünü keşfetmelerinde yol gösterirken aynı zamanda robotik ve bilgisayar bilimleri konusundaki anlayışlarını geliştirmeye yardımcı olur.",
+                "image": "./images/workshops/IntroductionToAI.png"
+            },
+            "Testudo ile Magnetik Kaplumbağa Üretimi": {
+                "description":"Testudo kiti, robotik alanında yeni başlayanlara, tasarım yapmayı ve biyomimikri yoluyla yenilikçi düşünmeyi öğretmeyi amaçlıyor. Kaplumbağalardan bazlı Testudo ile kullanıcılar, doğal hareketleri taklit eden robotları bir araya getirmeyi ve programlamayı öğrenecektir. Bu süreçte 3D baskılı bileşenler, bir Raspberry Pi Pico, servo motorlar ve Thonny kullanılacaktır.",
+                "image": "./images/workshops/IntroductionToAI.png"
+            },
+            "Bandlab ile Şarkı Yapımı": {
+                "description":"Bu eğitimde ilk olarak çocuklar bir şarkı türü belirler. Sonrasında eğitmenler Bandlab'i öğrettikten sonra kendileri birer beat yaparlar. Beatleri hazır olduğunda öğrenciler kendi şarkılarının başlığını ve sözlerini yazarlar. Her şey yazıldıktan sonra öğrenciler sıra sıra studioya girer ve kayıtlarını yaparlar. Kayıtların hepsi hazır olduğunda şarkı mixleme öğretilir. Herkes kendi kayıtlarını mixler sonra herkese dinletirler.",
+                "image": "./images/workshops/IntroductionToAI.png"
+            },
+            "Siber Güvenliğin Derinlikleri: Bir Hacker Gibi Düşünmek": {
+                "description":"Bu eğitimde ortadaki adam saldırısıyla bir modemin şifresini bulup bu WIFI ağına bağlı olan cihazların bilgilerine ulaşacağız. Ayrıca bir sanal makine hackleyerek kötü amaçlı hackerların nasıl hareket ettiği ve bunlardan korunma yollarını tartışacağımız bir eğitim olacak. Kalan zamanda ise katılımcıların kişisel merak ve soruları üzerine tartışacağımız interaktif bir ortam oluşacak.",
+                "image": "./images/workshops/IntroductionToAI.png"
+            },
+            "Çocuklar için Swift ile Uygulama Tasarlama": {
+                "description":"Öğrencilere Swift ile bir tane basit uygulama tasarlatıp kodunu yazdıracağımız bir eğitim olacak. Öğrenciler Swift, XCode ve basit komutlarını öğrenecek. Sonra da sırasıyla main, viewcontroller tarzı elemanlara bakıp kodunu yazdıracağız. En son da uygulama UI'ını geliştirip uygulamayı kullanacağız.",
+                "image": "./images/workshops/IntroductionToAI.png"
+            },
+            "Kartondan Microbit ile Robot Yapımı": {
+                "description":"Kartondan Microbit ile Robot Yapımı atölyemiz, ortaokul öğrencilerinin yaratıcı robotlar yapmasını ve bunları yarışmalarla test etmesini amaçlar. Microbit, karton ve servo motorlar kullanılarak gerçekleştirilen bu etkinlikte, öğrenciler hem robot tasarımını hem de temel elektronik ve kodlamayı öğrenirler. Eğlenceli ve uygulamalı içeriğiyle kurs, robotik araba yapımından programlamaya kadar kapsamlı bir öğrenim sunar. Atölye sonunda, öğrenciler kendi tasarladıkları robotları kodlayarak kontrol edebilme ve elektronik becerilerini geliştirme fırsatı bulacaklar. Atölye Sonunda kendi yaptıkları robotları",
+                "image": "./images/workshops/IntroductionToAI.png"
+            },
+            "Algoritmik Düşünce": {
+                "description":"-------",
+                "image": "./images/workshops/IntroductionToAI.png"
+            },
+            "Swift ile Mobil Uygulama Tasarımı": {
+                "description":"Swift ile Mobil Oyun Tasarımı eğitiminin temel amacı X code adlı Apple'ın uygulama geliştirme aracını kullanmayı öğrenmek ve bu araç ile mobil uygulama kodlamaktır. Deste kullanılacak kodlama dilini adı ise Swift’tir. Bu dersin sonunda swift ve X code hakkındaki temel bilgileri öğrenmiş ve uygulama tasarlamaya başlamış olacaksınız.",
+                "image": "./images/workshops/IntroductionToAI.png"
+            },
+            "Fikir Fabrikası: Kendi Girişiminiz Yaratın": {
+                "description":"Bu eğitim girişim dünyasına başlangıç eğitimidir. Herkes için uygun olan bu atölye, içinizdeki girişimci ruhu uyandirmanizi ve fikirlerinizi basarili bir start-up'a dönüştürmeyi öğrenmenizi saglayacak. Pratik deneyimlerle dolu, mentor destekleri ile desteklenen bu serüvende sadece öğrenmekle kalmayacak, ayni zamanda eğlence ve maceranin tadini çıkaracaksiniz! ",
+                "image": "./images/workshops/IntroductionToAI.png"
+            },
+            "Print-in-Place Sihri: Onshape ile 3D Yazdırılabilir Oyuncak Tasarımı": {
+                "description":"Bu eğitimde, Onshape kullanarak “print-in-place” konseptiyle hareketli parçalara sahip 3D baskıya uygun oyuncaklar tasarlayacaksınız. Katılımcılar, menteşe ve döner parçalar gibi hareketli detayların tek parça baskıya uygun modelleme yöntemlerini öğrenerek, tasarımlarını doğrudan yazıcıdan kullanıma hazır çıkacak şekilde hazırlayacak.",
+                "image": "./images/workshops/IntroductionToAI.png"   
+            },
+            "Unity 3D ile Kılıç Oyunu Yapmak": {
+                "description":"Bu eğitimde Unity'nin 3 boyutlu oyun motorundan basit bir kılıç oyunu yapacağız. Süreç içerisinde C# ve Unity için kod yazmayı, Unity'nin arayüzünü, bir ragdoll'u donatmayı, ragdoll'u hareket ettirmeyi, ragdoll'un hareketlerini anime etmeyi öğreneceğiz. Bu ders kodlamaya giriş dersi değildir. Eğer önceden kodlamaya dair hiçbir bilginiz yoksa ve kodlamaya yeni başladıysanız, bu ders sizin için önerilmez.",
+                "image": "./images/workshops/IntroductionToAI.png"   
+            },
+            "Julia ile Matematiksel ve Fiziksel Modelleme": {
+                "description":"Bu eğitimde Julia programlama dili üzerinden çeşitli matematiksel ve fiziksel kavramlar bu kavramların denklemelerini kullanarak modellenecek. Modeller başlangıçta sabit konseptler üzerine olacak olsada ilerleyen süreçte zamana bağlı renklemelere ilişkin modellemelerde yapılacak. Eğitimde Julia’nın içinde yazılmış çeşitli kütüphaneler sayesinde bahsedilen modellemeler yapılacak. Eğitim sonunda katılan kişiler Julia üzerinden belli başlı matematiksel konseptleri görselleştirebilir hale gelecekler.",
+                "image": "./images/workshops/IntroductionToAI.png"   
+            },
+            "Java ile Kendi Hesap Makinenizi Yapın": {
+                "description":"Java’nın gücüyle kendi akıllı hesap makinenizi geliştirin! Bu eğitimde, temel aritmetikten ileri düzey fonksiyonlara kadar çeşitli hesaplama özellikleri sunan, kişisel ihtiyaçlarınıza göre özelleştirilebilen bir hesap makinesi tasarlayacaksınız. Hem Java’yı keşfedin hem de kendi kodlanmış hesap makinenizi oluşturun!",
+                "image": "./images/workshops/IntroductionToAI.png"   
             }
         },
         "Çevrimiçi": {
