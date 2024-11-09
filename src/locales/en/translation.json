@@ -21,86 +21,74 @@
     "Gathertown Button Text": "Join as a Presenter",
     "Gathertown Button Link": "https://forms.gle/YiNCZXMZYvuR5irs7",
     "Workshops": {
-        "Hybrid": {
+        "Face To Face": {
             "Introduction To AI": {
                 "description":"In this lesson, students will explore the fundamentals of artificial intelligence, focusing on neural networks and Large Language Models (LLMs) like ChatGPT. They will learn how these systems predict text through calculations and pattern recognition, along with the concepts of supervised and unsupervised learning, and gain insight into how AI is trained.",
                 "image": "./images/workshops/IntroductionToAI.png"
             },
-            "Crack Wifi Passwords and Decrypt the Encrypted Messages": {
-                "description":"Nowadays, everyone has wifi in their home. In the Coding Summit, join a lecture for cracking the password of any wifi. In this lecture, you will also learn the most common ways to decrypt encrypted messages with and without coding.",
+            "Keeping Sports Data and Making Predictions using Computer Vision": {
+                "description":"Learn to analyze football matches using Python and OpenCV in this workshop! You will analyze player movements, ball control and positions on the football field with computer vision techniques and automatically record statistics. You will make various predictions with these statistics! At the end of the training, you will have developed an application that does these things. Improve your Computer Vision and Data Analysis skills!",
                 "image": "./images/workshops/Encyption.png"
             },
-            "Idea Factory: Crafting Your Startup Story": {
-                "description":"Discover the exciting world of entrepreneurship with our workshop, suitable for everyone! Unleash your inner innovator and learn to transform your ideas into thriving startups. Dive into hands-on activities and expert guidance, and embark on a journey that promises not just learning, but fun and adventure! Join us and start your path to success today.",
+            "Machine Learning for Kids": {
+                "description":"In this class, students will be introduced to the topic of machine learning through interactive activities. They will learn how to train models, make predictions, and understand the ethics of Al. The course is designed to be fun and engaging introducing children to the basics of this exciting technology.",
                 "image": "./images/workshops/Entrepreneurship.png"
             },
-            "Expectations from a Server: Virtualization From Scratch": {
-                "description":"How do large companies control all the computers from one computer? Why don't hackers use Windows or Mac? How can we protect a website from crashing? If you're curious about the answers to these and similar questions, this workshop is just for you. ",
+            "AR interactive Mechanical Systems:Automata": {
+                "description":"Otomata are 3D kits designed and produced by us to teach mechanical systems to K12 students. These kits are intended to teach fundamental systems like gears and cam mechanisms, which are commonly encountered in daily life. To observe how these systems work, interactive, customized animated visuals are provided through AR, allowing students to explore and push the boundaries of their imagination!",
                 "image": "./images/workshops/Server.png"
             },
-            "Creating Digital Masterpieces: Art Generation with SwiftUI Workshop": {
-                "description":"Become a digital artist with our \"Creating Digital Masterpieces: Art Generation with SwiftUI\" workshop! Learn to harness the power of SwiftUI and create stunning art-generating apps. Explore the fusion of coding and creativity, and unleash your inner artist. Join us and bring your artistic vision to life through code.",
+            "Building Bio-inspired Robots with Lemon": {
+                "description":"Lemon is a robotics education kit that allows beginners to improve their knowledge of mechanics, electronics, 3D design, and biomimetic robots. It helps develop students’ understanding of robotics and computer sciences while guiding their discovery of the procedure of making a robot. It serves as an introductory kit, focusing on each step’s specific aspect of modeling.",
                 "image": "./images/workshops/SwiftUI.png"
             },
-            "Coinflip with Quantum Computing": {
-                "description":"You may have come across the word \"quantum\" in your life, but what does it mean? In this workshop, you will learn basic quantum principles and create a coinflip project with the easy-to-learn coding language, Python.",
+            "Building Magnetic Turtle: Testudo": {
+                "description":"Our proposed educational kit Testudo aims to teach all beginners in robotics how to design and innovate through biomimicry by drawing inspiration from turtles. With Testudo, users will learn to assemble and program robots that mimic natural movements, using 3D-printed components, a Raspberry Pi Pico, servos, and Thonny. ",
                 "image": "./images/workshops/Quantum.png"
             },
-            "Large Language Models: AI That Can Talk": {
-                "description":"Everyone has heard of ChatGPT and interacted with it, but how does it actually work? In this class, we will look at the background of Large Language Models and how they work. We will also look at current LLM, deduce its logic, and use it to learn how one can start creating one.",
+            "Making Songs with Bandlab": {
+                "description":"First, the kids choose a song genre. After the instructors teach them how to use BandLab, they each create a beat. Once their beats are ready, the students write the title and lyrics for their songs. When everything is written, they take turns in the studio to record. Once all recordings are complete, they are taught how to mix. Everyone mixes their own recording and then shares it with the group.",
                 "image": "./images/workshops/LLM.png"
             },
-            "Python Adventure: Crafting Your Own Text-Based Game": {
-                "description": "Do you want to write your own adventure game? With Python, you can write your own text-based adventure customizing everything from the characters to every single detail of the scenario. You will make these customizations via Python while making a fun game and learning the fundamentals of Coding. ",
+            "The Depths of Cybersecurity: Thinking Like a Hacker": {
+                "description": "In this training, we will use a man-in-the-middle attack to find the password of a modem and access information about the devices connected to this Wi-Fi network. Additionally, we will hack a virtual machine to explore how malicious hackers operate and discuss methods of protection against such attacks. In the remaining time, we will create an interactive environment where participants can discuss their personal curiosities and questions regarding cybersecurity.",
                 "image": "./images/workshops/Python.png"
             },
-            "Can We Repair Old Photos?": {
-                "description":"Ever wondered how you can make an old photo look brand new? Or how you can revive a faded photo? In this workshop we will learn how to use the Adobe Photoshop tools and workspace to make that happen! You will also make your own creation by combining photos!",
+            "Designing Apps for Kids with Swift": {
+                "description":"The course will include students designing a simple app using Swift and writing its own code. First, we’ll cover the basics of Swift, then explain what Xcode is. After that, we’ll go through elements like main and ViewController step by step and have them write the code. Finally, we’ll develop the app’s UI and use the app.",
                 "image": "./images/workshops/Photoshop.png"
             },
-            "Unlocking the Athlete's Mind: Predicting Penalty Positions with AI and Computer Vision": {
-                "description":"Is it possible to read the mind of an athlete? In this lesson, we will analyze penalty positions in football matches using computer vision and AI. Our goal is to design a model that can predict where the shooter is aiming. Ready to foresee the future?",
+            "Making Cardboard Robot with Microbit ": {
+                "description":"This hands-on workshop fosters creativity and problem-solving skills, as students engage in building robotic cars, learning programming, and integrating basic electronics. The goal is to give middle school students an enriching experience where they can test their creations through competitions and take pride in their innovative robotic projects. At the end of the workshop, students will have the opportunity to program and control the robots they designed, enhancing their electronic skills At the end of the workshop, students will have the opportunity to program and control the robots they designed, enhancing their electronic skills",
                 "image": "./images/workshops/AIMessi.png"
             },
-            "Recreating Super Mario Bros with Unity 2D!": {
-                "description":"At the end of this course, you will have your own personalized Super Mario Bros. game and will know the basics of game design, an understanding of C#, and intermediate knowledge of the Unity Engine and its library. Welcome to Game Design.",
+            "Algorithmic Thinking": {
+                "description":"-----",
                 "image": "./images/workshops/Mario.png"
             },
-            "Dynamic Sculptures with Fusion360: Kinetic Wave": {
-                "description":"In this workshop, you will learn prototyping and 3D design through making a sculpture which oscillates, giving the illusion of waves. No experience in computer-aided design(CAD) is necessary but it is highly encouraged. I hope you will join me in this endeavor!",
+            "Mobile App Designing with Swift": {
+                "description":"The main goal of the Mobile Game Design course with Swift is to learn how to use Xcode, Apple’s application development tool, and to code mobile applications with it. The coding language to be used in this course is Swift. By the end of this course, you will have learned the basics of Swift and Xcode and will be able to start designing applications.",
                 "image": "./images/workshops/FusionDalga.png"
             },
-            "Computational Thinking Odyssey: Smart City Challenge": {
-                "description":"In this workshop, teams will tackle real-world issues, employing computational creativity to design futuristic smart cities. From coding solutions to unraveling ethical complexities, this experience promises a blend of innovation and computational brilliance. Join us for an adventure that sparks imaginations and hones computational thinking skills.",
+            "Idea Factory: Create Your Own Start-up": {
+                "description":"Discover the exciting world of entreprenurship. Our workshop, is suitable for everyone! Unleash your inner innovator and learn to transform your ideas into thriving startups. Dive into hands-on activities and expert guidance, and embark on a journey that promises not just learning, but fun and adventure!",
                 "image": "./images/workshops/Compt.png"
             },
-            "Machine Learning For Kids": {
-                "description":"Machine Learning for Kids opens a door to the magical world of technology! Get ready to discover how machines think by delving into the mysterious technologies used by giants like Google. This adventure, filled with entertaining activities and real-life examples, makes learning fun and intriguing for children!",
+            "Print-in-Place Magic: Designing 3D Printable Toys with Onshape": {
+                "description":"In this workshop, you'll use Onshape to design 3D-printable toys with moving parts using the “print-in-place” concept. Participants will learn techniques for modeling hinges, rotating parts, and other movable details that are suitable for single-print designs, allowing creations to come directly out of the printer, ready to use.",
                 "image": "./images/workshops/MachineLearning.png"   
             },
-            "Create Your Own Website With HTML&CSS and Javascript!": {
-                "description":"In this lecture, the participants will get to know HTML&CSS and Javascript. After the application \"Brackets\" is introduced, which they will use throughout the lecture, they will learn some code examples and what they do. Then, they will master controlling those code series using Javascript and that making complicated features. Thus, they will be able to design the UI of their own websites, meaning that the codes include the elements, and things like colors of their website, also the fonts, the images etc. When the theoretical learning is done, the participants will be let follow the instructions to design and code their websites in whichever way they like.",
+            "Making a Sword Game with Unity 3D!": {
+                "description":"In this workshop, we will create a simple sword game using Unity's 3D game engine. During the process, we will learn to write code for Unity in C#, navigate Unity's interface, equip a ragdoll, control its movements, and animate those movements. This lesson is not an introduction to coding. If you have no prior coding experience or are just starting out, this lesson is not recommended for you.",
                 "image": "./images/workshops/Javascript.png"   
-            }
-        },
-        "Online": {
-            "Programming Audiovisual Games in p5.js (Online)": {
-                "description":"In this workshop, we’re going to program a game with audiovisual elements using p5.js. We will sample a variety of knowledge ranging from the fields of HCI/Game design, music theory/music computing, and interactive media design. At the end of the workshop, you will have your own p5.js game. ",
-                "image": "./images/workshops/IremSu.png"
-            }
-        },
-        "Face To Face": {
-            "Lemon: Bio-Inspired Robots": {
-                "description":"Lemon is a robotics education kit that allows beginners to improve their knowledge of mechanics, electronics, 3D design, and programming while building 3 biomimetic robots. It helps develop students' understanding of robotics and computer sciences while guiding them through the robot-making procedure.",
-                "image": "./images/workshops/Lemon.png"
             },
-            "Origami Automation: Crafting Customizable Automata": {
-                "description":"Join our unique workshop offering participants an extraordinary experience. Build various automata and customize them using origami, creating an opportunity for self-expression. Learn how to personalize your automata and be part of this distinctive experience.",
-                "image": "./images/workshops/Automata.png"
+            "Mathematical and Physical Modeling with Julia": {
+                "description":"In this course, various mathematical and physical concepts will be modeled using the Julia programming language, employing equations related to these concepts. Initially, the models will focus on static concepts, but later, time-dependent modeling will also be included. The modeling will be accomplished using various libraries built into Julia. By the end of the training, participants will be able to visualize key mathematical concepts in Julia.",
+                "image": "./images/workshops/Javascript.png"   
             },
-            "Toy Factory": {
-                "description":"In this workshop, you will be able to design your own toys by using Fusion 360. You will find a company name for your products and design a logo for it. The toys you design will be given to you after they get 3D printed and your logos will be given to you as a sticker.",
-                "image": "./images/workshops/ToyFactory.png"
+            " Make Your Own Calculator Using Java Programming": {
+                "description":" Make your own smart calculator using the Java programming language. In this workshop we will help you create a calculator that can perform simple arithmetic calculations to advanced algorithms. You will learn about the Java programming language which is used to code robotics systems, web apps and games. Explore Java and create your own creative calculator!",
+                "image": "./images/workshops/Javascript.png"   
             }
         }
     },
