@@ -31,63 +31,63 @@
             },
             "Çocuklar için Makine Öğrenimi": {
                 "description":"Bu ders kapsaminda, ögrenciler interaktif aktiviteler aracılığıyla makine ögrenimi konusuna tanitilacaklardir. Model eğitimi yapmayi, tahminlerde bulunmayı ve yapay zeka etiği konularina giriş yapacaklardir. Bu eğitim, ögrencilere heyecan verici bir sekilde teknolojinin temellerini eglenceli ve ilgi ekici bir sekilde sunmak için tasarlanmistir.",
-                "image": "./images/workshops/IntroductionToAI.png"
+                "image": "./images/workshops/x.png"
             },
             "AR etkileşimli mekanik sistemler: Automata": {
                 "description":"Otomata, K12 seviyesindeki öğrencilere mekanik sistemleri anlatabilmek için tasarladığımız ve ürettiğimiz 3D kitlerdir. Çark ve kam sistemleri gibi temel, günlük hayatta sıklıkla karşımıza çıkan sistemleri öğretmek içindir. Bu sistemlerin çalışma prensiplerini gözlemleyebilmek için de AR aracılığıyla, kitlerle etkileşimli, hayal gücünüzün sınırlarını zorlayacak özelleştirilmiş hareketli görseller!",
-                "image": "./images/workshops/IntroductionToAI.png"
+                "image": "./images/workshops/x.png"
             },
             "Lemon ile Biyo-İlhamlı Robotlar İnşa Etmek": {
                 "description":"Lemon, başlangıc seviyesindeki kişilerin mekanik, elektronik, 3D tasarım ve programlama bilgilerini geliştirebilecekleri bir robotik eğitim kiti olup, sırasıyla 3 biyomimetrik robot yaparak geliştirmelerini sağlar. Lemon, öğrencilerin robot yapma prosedürünü keşfetmelerinde yol gösterirken aynı zamanda robotik ve bilgisayar bilimleri konusundaki anlayışlarını geliştirmeye yardımcı olur.",
-                "image": "./images/workshops/IntroductionToAI.png"
+                "image": "./images/workshops/x.png"
             },
             "Testudo ile Magnetik Kaplumbağa Üretimi": {
                 "description":"Testudo kiti, robotik alanında yeni başlayanlara, tasarım yapmayı ve biyomimikri yoluyla yenilikçi düşünmeyi öğretmeyi amaçlıyor. Kaplumbağalardan bazlı Testudo ile kullanıcılar, doğal hareketleri taklit eden robotları bir araya getirmeyi ve programlamayı öğrenecektir. Bu süreçte 3D baskılı bileşenler, bir Raspberry Pi Pico, servo motorlar ve Thonny kullanılacaktır.",
-                "image": "./images/workshops/IntroductionToAI.png"
+                "image": "./images/workshops/x.png"
             },
             "Bandlab ile Şarkı Yapımı": {
                 "description":"Bu eğitimde ilk olarak çocuklar bir şarkı türü belirler. Sonrasında eğitmenler Bandlab'i öğrettikten sonra kendileri birer beat yaparlar. Beatleri hazır olduğunda öğrenciler kendi şarkılarının başlığını ve sözlerini yazarlar. Her şey yazıldıktan sonra öğrenciler sıra sıra studioya girer ve kayıtlarını yaparlar. Kayıtların hepsi hazır olduğunda şarkı mixleme öğretilir. Herkes kendi kayıtlarını mixler sonra herkese dinletirler.",
-                "image": "./images/workshops/IntroductionToAI.png"
+                "image": "./images/workshops/x.png"
             },
             "Siber Güvenliğin Derinlikleri: Bir Hacker Gibi Düşünmek": {
                 "description":"Bu eğitimde ortadaki adam saldırısıyla bir modemin şifresini bulup bu WIFI ağına bağlı olan cihazların bilgilerine ulaşacağız. Ayrıca bir sanal makine hackleyerek kötü amaçlı hackerların nasıl hareket ettiği ve bunlardan korunma yollarını tartışacağımız bir eğitim olacak. Kalan zamanda ise katılımcıların kişisel merak ve soruları üzerine tartışacağımız interaktif bir ortam oluşacak.",
-                "image": "./images/workshops/IntroductionToAI.png"
+                "image": "./images/workshops/x.png"
             },
             "Çocuklar için Swift ile Uygulama Tasarlama": {
                 "description":"Öğrencilere Swift ile bir tane basit uygulama tasarlatıp kodunu yazdıracağımız bir eğitim olacak. Öğrenciler Swift, XCode ve basit komutlarını öğrenecek. Sonra da sırasıyla main, viewcontroller tarzı elemanlara bakıp kodunu yazdıracağız. En son da uygulama UI'ını geliştirip uygulamayı kullanacağız.",
-                "image": "./images/workshops/IntroductionToAI.png"
+                "image": "./images/workshops/x.png"
             },
             "Kartondan Microbit ile Robot Yapımı": {
                 "description":"Kartondan Microbit ile Robot Yapımı atölyemiz, ortaokul öğrencilerinin yaratıcı robotlar yapmasını ve bunları yarışmalarla test etmesini amaçlar. Microbit, karton ve servo motorlar kullanılarak gerçekleştirilen bu etkinlikte, öğrenciler hem robot tasarımını hem de temel elektronik ve kodlamayı öğrenirler. Eğlenceli ve uygulamalı içeriğiyle kurs, robotik araba yapımından programlamaya kadar kapsamlı bir öğrenim sunar. Atölye sonunda, öğrenciler kendi tasarladıkları robotları kodlayarak kontrol edebilme ve elektronik becerilerini geliştirme fırsatı bulacaklar. Atölye Sonunda kendi yaptıkları robotları",
-                "image": "./images/workshops/IntroductionToAI.png"
+                "image": "./images/workshops/x.png"
             },
             "Algoritmik Düşünce": {
                 "description":"-------",
-                "image": "./images/workshops/IntroductionToAI.png"
+                "image": "./images/workshops/x.png"
             },
             "Swift ile Mobil Uygulama Tasarımı": {
                 "description":"Swift ile Mobil Oyun Tasarımı eğitiminin temel amacı X code adlı Apple'ın uygulama geliştirme aracını kullanmayı öğrenmek ve bu araç ile mobil uygulama kodlamaktır. Deste kullanılacak kodlama dilini adı ise Swift’tir. Bu dersin sonunda swift ve X code hakkındaki temel bilgileri öğrenmiş ve uygulama tasarlamaya başlamış olacaksınız.",
-                "image": "./images/workshops/IntroductionToAI.png"
+                "image": "./images/workshops/x.png"
             },
             "Fikir Fabrikası: Kendi Girişiminiz Yaratın": {
                 "description":"Bu eğitim girişim dünyasına başlangıç eğitimidir. Herkes için uygun olan bu atölye, içinizdeki girişimci ruhu uyandirmanizi ve fikirlerinizi basarili bir start-up'a dönüştürmeyi öğrenmenizi saglayacak. Pratik deneyimlerle dolu, mentor destekleri ile desteklenen bu serüvende sadece öğrenmekle kalmayacak, ayni zamanda eğlence ve maceranin tadini çıkaracaksiniz! ",
-                "image": "./images/workshops/IntroductionToAI.png"
+                "image": "./images/workshops/x.png"
             },
             "Print-in-Place Sihri: Onshape ile 3D Yazdırılabilir Oyuncak Tasarımı": {
                 "description":"Bu eğitimde, Onshape kullanarak “print-in-place” konseptiyle hareketli parçalara sahip 3D baskıya uygun oyuncaklar tasarlayacaksınız. Katılımcılar, menteşe ve döner parçalar gibi hareketli detayların tek parça baskıya uygun modelleme yöntemlerini öğrenerek, tasarımlarını doğrudan yazıcıdan kullanıma hazır çıkacak şekilde hazırlayacak.",
-                "image": "./images/workshops/IntroductionToAI.png"   
+                "image": "./images/workshops/x.png"   
             },
             "Unity 3D ile Kılıç Oyunu Yapmak": {
                 "description":"Bu eğitimde Unity'nin 3 boyutlu oyun motorundan basit bir kılıç oyunu yapacağız. Süreç içerisinde C# ve Unity için kod yazmayı, Unity'nin arayüzünü, bir ragdoll'u donatmayı, ragdoll'u hareket ettirmeyi, ragdoll'un hareketlerini anime etmeyi öğreneceğiz. Bu ders kodlamaya giriş dersi değildir. Eğer önceden kodlamaya dair hiçbir bilginiz yoksa ve kodlamaya yeni başladıysanız, bu ders sizin için önerilmez.",
-                "image": "./images/workshops/IntroductionToAI.png"   
+                "image": "./images/workshops/x.png"   
             },
             "Julia ile Matematiksel ve Fiziksel Modelleme": {
                 "description":"Bu eğitimde Julia programlama dili üzerinden çeşitli matematiksel ve fiziksel kavramlar bu kavramların denklemelerini kullanarak modellenecek. Modeller başlangıçta sabit konseptler üzerine olacak olsada ilerleyen süreçte zamana bağlı renklemelere ilişkin modellemelerde yapılacak. Eğitimde Julia’nın içinde yazılmış çeşitli kütüphaneler sayesinde bahsedilen modellemeler yapılacak. Eğitim sonunda katılan kişiler Julia üzerinden belli başlı matematiksel konseptleri görselleştirebilir hale gelecekler.",
-                "image": "./images/workshops/IntroductionToAI.png"   
+                "image": "./images/workshops/x.png"   
             },
             "Java ile Kendi Hesap Makinenizi Yapın": {
                 "description":"Java’nın gücüyle kendi akıllı hesap makinenizi geliştirin! Bu eğitimde, temel aritmetikten ileri düzey fonksiyonlara kadar çeşitli hesaplama özellikleri sunan, kişisel ihtiyaçlarınıza göre özelleştirilebilen bir hesap makinesi tasarlayacaksınız. Hem Java’yı keşfedin hem de kendi kodlanmış hesap makinenizi oluşturun!",
-                "image": "./images/workshops/IntroductionToAI.png"   
+                "image": "./images/workshops/x.png"   
             }
         }
     },
