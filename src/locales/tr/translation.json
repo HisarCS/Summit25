@@ -15,12 +15,12 @@
     "Fablab Image Text 1": "2013'ten beri",
     "Fablab Image Text 2": "Öğrenmenin Gücüyle kodluyoruz",
     "Gathertown Title": "Gathertown: Proje Fuarı",
-    "Gathertown Text": "11. Hisar Kodlama Zirvesi Proje Fuarımız online olarak GatherTown üzerinden düzenlenecektir. Biz, yenilik ve teknolojinin kesişim noktasında yer alan her türlü disiplinler arası alana ve Öğrenmenin On Yılı: Yeniliği ve Etkiyi Kutlama mottomuza uygun tüm projelere açığız. ",
+    "Gathertown Text": "11. Hisar Kodlama Zirvesi Proje Fuarımız online olarak GatherTown üzerinden düzenlenecektir. Biz, yenilik ve teknolojinin kesişim noktasında yer alan her türlü disiplinler arası alana ve Öğrenmenin Onbir Yılı: Yeniliği ve Etkiyi Kutlama mottomuza uygun tüm projelere açığız. ",
     "Gathertown Button Text": "Sunucu olarak katılın",
     "Gathertown Button Link": "https://forms.gle/W2kuPtrDZEDxWb2F9",
     "Workshop Text": "Öğrenmenin Gücüyle kodluyoruz",
     "Workshops": {
-        "Hibrit": {
+        "Yüz Yüze": {
             "Yapay Zekaya Giriş": {
                 "description":"Bu derste, öğrenciler yapay zekanın temellerini keşfedecek, yapay sinir ağları kavramına ve ChatGPT gibi Büyük Dil Modellerine (LLM) odaklanacaklardır. Bu sistemlerin, hesaplamalar ve örüntü tanıma yollarıyla  nasıl metin tahmin ettiklerini, denetimli ve denetimsiz öğrenme kavramlarını öğrenecek ve yapay zekanın nasıl eğitildiği hakkında bilgi sahibi olacaklardır.",
                 "image": "./images/workshops/IntroductionToAI.png"
@@ -89,27 +89,6 @@
                 "description":"Java’nın gücüyle kendi akıllı hesap makinenizi geliştirin! Bu eğitimde, temel aritmetikten ileri düzey fonksiyonlara kadar çeşitli hesaplama özellikleri sunan, kişisel ihtiyaçlarınıza göre özelleştirilebilen bir hesap makinesi tasarlayacaksınız. Hem Java’yı keşfedin hem de kendi kodlanmış hesap makinenizi oluşturun!",
                 "image": "./images/workshops/IntroductionToAI.png"   
             }
-        },
-        "Çevrimiçi": {
-            "Görsel-İşitsel Oyun Programlama (Çevrimiçi)": {
-                "description":"Bu atölyede p5.js kullanarak görsel-işitsel öğeler içeren interaktif bir oyun programlayacağız. İnsan-Bilgisayar Etkileşimi/Oyun tasarımı, müzik teorisi/bilişimi ve etkileşimli medya tasarımı alanlarından geniş bir bilgi yelpazesini örnekleyeceğiz ve bu disiplinlerin nasıl kesiştiğini öğreneceğiz. Atölye sonunda katılımcılar kendi p5.js oyunlarını oluşturacaklar.",
-                "image": "./images/workshops/IremSu.png"
-            }
-        },
-        "Yüz yüze": {
-            "Lemon İle Biyo-İlhamlı Robotlar İnşa Etmek": {
-                "description":"Lemon, bireylere başlangıç seviyesinde mekanik, elektronik, 3D tasarım ve programlama bilgilerini sırasıyla 3 biyomimetik robot yaparak öğreten bir robotik eğitim kitidir. Öğrencilerin robot yapma prosedürünü keşfetmelerinde yol gösterirken, Lemon aynı zamanda robotik ve bilgisayar bilimleri konusundaki anlayışlarını geliştirmeye yardımcı olur.",
-                "image": "./images/workshops/Lemon.png"
-            },
-            "Origami Otomasyonu: Kişiselleştirilebilir Otomatalar Oluşturma": {
-                "description":"Katılımcılarımıza özgün bir deneyim sunan atölyemize katılın! Farklı otomatlar inşa edin ve onları origami ile özelleştirerek kendinizi ifade etme fırsatını yakalayın. Otomatlarınızı nasıl kişiselleştireceğinizi öğrenin ve bu benzersiz deneyime katılın.",
-                "image": "./images/workshops/Automata.png"
-            },
-            "Oyuncak Fabrikası": {
-                "description":"Bu oyuncak tasarım atölyesinde katılımcılar Fusion 360 ile kendi oyuncaklarını tasarlayabilecekler. Tasarladıklarınız bu oyuncaklar için bir şirket adı ve logosu düşüneceksiniz. Daha sonrasında oyuncaklarınız 3D yazıcılar aracılığıyla basılır ve logolarınız size sticker şeklinde verilecek.",
-                "image": "./images/workshops/ToyFactory.png"
-            }
-
         }
     },
     "Program Text": "Günlük Program",
