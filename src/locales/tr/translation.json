@@ -22,7 +22,7 @@
     "Workshops": {
         "Hibrit": {
             "Yapay Zekaya Giriş": {
-                "description":"Bu derste, öğrenciler yapay zekanın temellerini keşfedecek, "yapay sinir ağları" kavramına ve ChatGPT gibi Büyük Dil Modellerine (LLM) odaklanacaklardır. Bu sistemlerin, hesaplamalar ve örüntü tanıma yollarıyla  nasıl metin tahmin ettiklerini, denetimli ve denetimsiz öğrenme kavramlarını öğrenecek ve yapay zekanın nasıl eğitildiği hakkında bilgi sahibi olacaklardır.",
+                "description":"Bu derste, öğrenciler yapay zekanın temellerini keşfedecek, yapay sinir ağları kavramına ve ChatGPT gibi Büyük Dil Modellerine (LLM) odaklanacaklardır. Bu sistemlerin, hesaplamalar ve örüntü tanıma yollarıyla  nasıl metin tahmin ettiklerini, denetimli ve denetimsiz öğrenme kavramlarını öğrenecek ve yapay zekanın nasıl eğitildiği hakkında bilgi sahibi olacaklardır.",
                 "image": "./images/workshops/IntroductionToAI.png"
             },
             "Wifilere Sızın ve Şifreli Mesajları Çözün": {
