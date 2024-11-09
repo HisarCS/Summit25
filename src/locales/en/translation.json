@@ -22,9 +22,9 @@
     "Gathertown Button Link": "https://forms.gle/YiNCZXMZYvuR5irs7",
     "Workshops": {
         "Hybrid": {
-            "Make Your Own Creative Calculator with Java": {
-                "description":"You have all seen a calculator that sums 2+2. Have you seen one that sums blue and red, or chickens and goats. Lets build one to our liking together while learning about core concepts of programming like object oriented coding with the most used programming language in the world Java.",
-                "image": "./images/workshops/java.png"
+            "Introduction To AI": {
+                "description":"In this lesson, students will explore the fundamentals of artificial intelligence, focusing on neural networks and Large Language Models (LLMs) like ChatGPT. They will learn how these systems predict text through calculations and pattern recognition, along with the concepts of supervised and unsupervised learning, and gain insight into how AI is trained.",
+                "image": "./images/workshops/IntroductionToAI.png"
             },
             "Crack Wifi Passwords and Decrypt the Encrypted Messages": {
                 "description":"Nowadays, everyone has wifi in their home. In the Coding Summit, join a lecture for cracking the password of any wifi. In this lecture, you will also learn the most common ways to decrypt encrypted messages with and without coding.",

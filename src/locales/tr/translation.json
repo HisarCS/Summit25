@@ -21,9 +21,9 @@
     "Workshop Text": "Öğrenmenin Gücüyle kodluyoruz",
     "Workshops": {
         "Hibrit": {
-            "Java ile Yaratıcı Hesap Makinesi Yapımı": {
-                "description":"Hepiniz 2+2'yi toplayan bir hesap makinesi gördünüz. Peki mavi ve kırmızıyı veya tavuklar ve keçileri toplayan bir hesap makinesi gördünüz mü? Dünyada en çok kullanılan programlama dili Java'yı kullanarak object oriented coding programlamanın temel kavramlarını öğrenirken isteğimize göre bir yaratıcı bir hesap makinesi oluşturalım.",
-                "image": "./images/workshops/java.png"
+            "Yapay Zekaya Giriş": {
+                "description":"Bu derste, öğrenciler yapay zekanın temellerini keşfedecek, "yapay sinir ağları" kavramına ve ChatGPT gibi Büyük Dil Modellerine (LLM) odaklanacaklardır. Bu sistemlerin, hesaplamalar ve örüntü tanıma yollarıyla  nasıl metin tahmin ettiklerini, denetimli ve denetimsiz öğrenme kavramlarını öğrenecek ve yapay zekanın nasıl eğitildiği hakkında bilgi sahibi olacaklardır.",
+                "image": "./images/workshops/IntroductionToAI.png"
             },
             "Wifilere Sızın ve Şifreli Mesajları Çözün": {
                 "description":"Günümüzde herkesin evinde wifi var. Coding Summit’te herhangi bir wifi şifresini nasıl çözebileceğinizi öğreneceğiniz bir eğitime katılın. Bu eğitimde aynı zamanda en çok kullanılan şifreleme yöntemlerini kodlayarak ve kodlamayarak çözmeyi de öğreneceksiniz.",
