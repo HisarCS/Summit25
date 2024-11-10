@@ -31,7 +31,7 @@
             },
             "Çocuklar için Makine Öğrenimi": {
                 "description":"Bu ders kapsaminda, ögrenciler interaktif aktiviteler aracılığıyla makine ögrenimi konusuna tanitilacaklardir. Model eğitimi yapmayi, tahminlerde bulunmayı ve yapay zeka etiği konularina giriş yapacaklardir. Bu eğitim, ögrencilere heyecan verici bir sekilde teknolojinin temellerini eglenceli ve ilgi ekici bir sekilde sunmak için tasarlanmistir.",
-                "image": "./images/workshops/x.png"
+                "image": "./images/workshops/machineLearningForKids.png"
             },
             "AR etkileşimli mekanik sistemler: Automata": {
                 "description":"Otomata, K12 seviyesindeki öğrencilere mekanik sistemleri anlatabilmek için tasarladığımız ve ürettiğimiz 3D kitlerdir. Çark ve kam sistemleri gibi temel, günlük hayatta sıklıkla karşımıza çıkan sistemleri öğretmek içindir. Bu sistemlerin çalışma prensiplerini gözlemleyebilmek için de AR aracılığıyla, kitlerle etkileşimli, hayal gücünüzün sınırlarını zorlayacak özelleştirilmiş hareketli görseller!",
