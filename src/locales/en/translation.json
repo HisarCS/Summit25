@@ -28,7 +28,7 @@
             },
             "Keeping Sports Data and Making Predictions using Computer Vision": {
                 "description":"Learn to analyze football matches using Python and OpenCV in this workshop! You will analyze player movements, ball control and positions on the football field with computer vision techniques and automatically record statistics. You will make various predictions with these statistics! At the end of the training, you will have developed an application that does these things. Improve your Computer Vision and Data Analysis skills!",
-                "image": "./images/workshops/Encyption.png"
+                "image": "./images/workshops/bilgisayargörüşüilesporistatistiği.png"
             },
             "Machine Learning for Kids": {
                 "description":"In this class, students will be introduced to the topic of machine learning through interactive activities. They will learn how to train models, make predictions, and understand the ethics of Al. The course is designed to be fun and engaging introducing children to the basics of this exciting technology.",
@@ -36,11 +36,11 @@
             },
             "AR interactive Mechanical Systems:Automata": {
                 "description":"Otomata are 3D kits designed and produced by us to teach mechanical systems to K12 students. These kits are intended to teach fundamental systems like gears and cam mechanisms, which are commonly encountered in daily life. To observe how these systems work, interactive, customized animated visuals are provided through AR, allowing students to explore and push the boundaries of their imagination!",
-                "image": "./images/workshops/Server.png"
+                "image": "./images/workshops/Automata.png"
             },
             "Building Bio-inspired Robots with Lemon": {
                 "description":"Lemon is a robotics education kit that allows beginners to improve their knowledge of mechanics, electronics, 3D design, and biomimetic robots. It helps develop students’ understanding of robotics and computer sciences while guiding their discovery of the procedure of making a robot. It serves as an introductory kit, focusing on each step’s specific aspect of modeling.",
-                "image": "./images/workshops/SwiftUI.png"
+                "image": "./images/workshops/limePrototype.jpeg"
             },
             "Building Magnetic Turtle: Testudo": {
                 "description":"Our proposed educational kit Testudo aims to teach all beginners in robotics how to design and innovate through biomimicry by drawing inspiration from turtles. With Testudo, users will learn to assemble and program robots that mimic natural movements, using 3D-printed components, a Raspberry Pi Pico, servos, and Thonny. ",
@@ -48,57 +48,56 @@
             },
             "Making Songs with Bandlab": {
                 "description":"First, the kids choose a song genre. After the instructors teach them how to use BandLab, they each create a beat. Once their beats are ready, the students write the title and lyrics for their songs. When everything is written, they take turns in the studio to record. Once all recordings are complete, they are taught how to mix. Everyone mixes their own recording and then shares it with the group.",
-                "image": "./images/workshops/LLM.png"
+                "image": "./images/workshops/bandlab.png"
             },
             "The Depths of Cybersecurity: Thinking Like a Hacker": {
                 "description": "In this training, we will use a man-in-the-middle attack to find the password of a modem and access information about the devices connected to this Wi-Fi network. Additionally, we will hack a virtual machine to explore how malicious hackers operate and discuss methods of protection against such attacks. In the remaining time, we will create an interactive environment where participants can discuss their personal curiosities and questions regarding cybersecurity.",
-                "image": "./images/workshops/Python.png"
+                "image": "./images/workshops/Cybersecurity.png"
             },
             "Designing Apps for Kids with Swift": {
                 "description":"The course will include students designing a simple app using Swift and writing its own code. First, we’ll cover the basics of Swift, then explain what Xcode is. After that, we’ll go through elements like main and ViewController step by step and have them write the code. Finally, we’ll develop the app’s UI and use the app.",
-                "image": "./images/workshops/Photoshop.png"
+                "image": "./images/workshops/çocuuklariçinswift.png"
             },
             "Making Cardboard Robot with Microbit ": {
                 "description":"This hands-on workshop fosters creativity and problem-solving skills, as students engage in building robotic cars, learning programming, and integrating basic electronics. The goal is to give middle school students an enriching experience where they can test their creations through competitions and take pride in their innovative robotic projects. At the end of the workshop, students will have the opportunity to program and control the robots they designed, enhancing their electronic skills At the end of the workshop, students will have the opportunity to program and control the robots they designed, enhancing their electronic skills",
-                "image": "./images/workshops/AIMessi.png"
+                "image": "./images/workshops/kartondanmicobit.png"
             },
-            "Algorithmic Thinking": {
-                "description":"-----",
-                "image": "./images/workshops/Mario.png"
+            "Minds and Machines: Computational Thinking for Interdisciplinary Problem Solving": {
+                "description":"This course is designed to introduce students to the concept of computational thinking and its role in solving interdisciplinary problems at the intersection of stem, society, and technology. The course will focus on developing problem-solving strategies, and the ability to utilize computational tools to solve complex problems and systems in the light of ethics and societal factors.",
+                "image": "./images/workshops/algoritmikdüşünce.png"
             },
             "Mobile App Designing with Swift": {
                 "description":"The main goal of the Mobile Game Design course with Swift is to learn how to use Xcode, Apple’s application development tool, and to code mobile applications with it. The coding language to be used in this course is Swift. By the end of this course, you will have learned the basics of Swift and Xcode and will be able to start designing applications.",
-                "image": "./images/workshops/FusionDalga.png"
+                "image": "./images/workshops/swiftileuygulamatasarlama.png"
             },
             "Idea Factory: Create Your Own Start-up": {
                 "description":"Discover the exciting world of entreprenurship. Our workshop, is suitable for everyone! Unleash your inner innovator and learn to transform your ideas into thriving startups. Dive into hands-on activities and expert guidance, and embark on a journey that promises not just learning, but fun and adventure!",
-                "image": "./images/workshops/Compt.png"
+                "image": "./images/workshops/entre.png"
             },
             "Print-in-Place Magic: Designing 3D Printable Toys with Onshape": {
                 "description":"In this workshop, you'll use Onshape to design 3D-printable toys with moving parts using the “print-in-place” concept. Participants will learn techniques for modeling hinges, rotating parts, and other movable details that are suitable for single-print designs, allowing creations to come directly out of the printer, ready to use.",
-                "image": "./images/workshops/MachineLearning.png"   
+                "image": "./images/workshops/printinplace.png"   
             },
             "Making a Sword Game with Unity 3D!": {
                 "description":"In this workshop, we will create a simple sword game using Unity's 3D game engine. During the process, we will learn to write code for Unity in C#, navigate Unity's interface, equip a ragdoll, control its movements, and animate those movements. This lesson is not an introduction to coding. If you have no prior coding experience or are just starting out, this lesson is not recommended for you.",
-                "image": "./images/workshops/Javascript.png"   
+                "image": "./images/workshops/unitykılıçoyunu.png"   
             },
             "Mathematical and Physical Modeling with Julia": {
                 "description":"In this course, various mathematical and physical concepts will be modeled using the Julia programming language, employing equations related to these concepts. Initially, the models will focus on static concepts, but later, time-dependent modeling will also be included. The modeling will be accomplished using various libraries built into Julia. By the end of the training, participants will be able to visualize key mathematical concepts in Julia.",
-                "image": "./images/workshops/Javascript.png"   
+                "image": "./images/workshops/julia.png"   
             },
             " Make Your Own Calculator Using Java Programming": {
                 "description":" Make your own smart calculator using the Java programming language. In this workshop we will help you create a calculator that can perform simple arithmetic calculations to advanced algorithms. You will learn about the Java programming language which is used to code robotics systems, web apps and games. Explore Java and create your own creative calculator!",
-                "image": "./images/workshops/Javascript.png"   
+                "image": "./images/workshops/javailehesapmakinesi.png"   
             }
         }
     },
     "Program Text": "Daily Program",
     "Programs": {
         "Day 1": {
-            "8:00 - 10:00": "Internal Event - Hisar Students Only ",
-            "12:00 - 13:00": "Opening Ceramony and Speech",
-            "13.00 - 14:50": "1st Session",
-            "15:00 - 16:50 ": "2nd Session",
+            "9:00 - 15:30": "Internal Event - Hisar Students Only ",
+            "9:00 - 12:00": "1st Session",
+            "12:00 - 15:30": "2nd Session",
             "17:00": "Speaker TBA",
             "18:30": "Speaker TBA",
             "20:00": "Speaker TBA",
@@ -108,12 +107,12 @@
             "09:00 - 09:30": "Welcoming",
             "09:30 - 10:00": "Opening Ceramony and Speech",
             "10:10 - 12:10": "1st Session",
-            "12:10 - 13:00": "Lunch Break / Brownie Wars",
-            "13:00 - 14:50": "2nd Session",
-            "15:00 - 16:50": "3rd Session",
-            "17:00 - 18:00": "Speaker TBA",
-            "18:10 - 18:40": "Closing Ceramony ",
-            "19:00 - 20:00": "Gathertown Project Fair",
+            "12:10 - 12:50": "Lunch Break",
+            "12:50 - 14:20": "2nd Session",
+            "14:20 - 14:30": "Break",
+            "14:30 - 16:00": "3rd Session",
+            "16:00 - 16:30": "Brownie Wars",
+            "16:30 - 17:00": "Closing Ceramony ",
             "Date": "14 December | Saturday"
         }
     },
@@ -141,67 +140,67 @@
     "Sessions": {
        "Friday": {
             "1st Session": [
-                "Make Your Own Creative Calculator with Java (Hybrid)",
-                "Crack Wifi Passwords and Decrypt the Encrypted Messages (Hybrid)",
-                "Idea Factory: Crafting Your Startup Story (Hybrid)",
-                "Creating digital masterpieces: Art Generation with SwiftUI Workshop (Hybrid)",
-                "Coinflip with Quantum Computing (Hybrid)",
-                "Origami Automation: Crafting Customizable Automata (Face to Face)",
-                "Toy Factory (Face to Face)",
-                "Large Language Models: AI That Can Talk (Hybrid)",
-                "Machine Learning For Kids (Hybrid)"
+                "AR interactive Mechanical Systems:Automata",
+                "Building Bio-inspired Robots with Lemon",
+                "Building Magnetic Turtle: Testudo",
+                "Making Songs with Bandlab",
+                "Machine Learning for kids",
+                "The Depths of Cybersecurity: Thinking Like a Hacker",
+                "Designing Apps for Kids with Swift",
+                "Making Cardboard Robot with Microbit",
+                "Minds and Machines: Computational Thinking for Interdisciplinary Problem Solving"
+
             ],
             "2nd Session": [
-                "What to expect from a server: Virtualization from scratch (Hybrid)",
-                "Lemon Bio-Inspired Robots With LEMON (Face to Face)",
-                "Python Adventure: Crafting Your Own Text-Based Game (Hybrid)",
-                "Can We Repair Old Photos? (Hybrid)",
-                "Mind of an Athlete: Predicting Penalty Positions with AI and Computer Vision (Hybrid)",
-                "Recreating Super Mario Bros with Unity 2D! (Hybrid)",
-                "Computational Thinking Odyssey: Smart City Challenge (Hybrid)",
-                "Dynamic Sculptures with Fusion360: Kinetic Wave (Hybrid)",
-                "Create your own website with HTML&CSS and Javascript! (Hybrid)"
+                "Mobile App Designing with Swift",
+                "The Depths of Cybersecurity: Thinking Like a Hacker",
+                "Creating a Maze Solving Application with Artificial Intelligence",
+                "Introduction To AI",
+                "Idea Factory: Create Your Own Start-up",
+                "Minds and Machines: Computational Thinking for Interdisciplinary Problem Solving",
+                "Building Bio-inspired Robots with Lemon",
+                "Print-in-Place Magic: Designing 3D Printable Toys with Onshape"
+
             ]
        },
        "Saturday": {
             "1st Session": [
-                "Make Your Own Creative Calculator with Java (Hybrid)",
-                "Lemon Bio-Inspired Robots With LEMON (Face to Face)",
-                "Idea Factory: Crafting Your Startup Story (Hybrid)",
-                "Python Adventure: Crafting Your Own Text-Based Game (Hybrid)",
-                "Can we repair old photos? (Hybrid)",
-                "Recreating Super Mario Bros with Unity 2D! (Hybrid)",
-                "Origami Automation: Crafting Customizable Automata (Face to Face)",
-                "Toy Factory (Face to Face)",
-                "Computational Thinking Odyssey: Smart City Challenge (Hybrid)",
-                "Machine Learning For Kids (Hybrid)"
+               "Keeping Sports Data and Making Predictions using Computer Vision",
+               "Making Songs with Bandlab",
+               "AR Interactive Mechanical Systems:Automata",
+               "Building Bio-inspired Robots with Lemon",
+               "Designing Apps for Kids with Swift",
+               "Mobile App Designing with Swift",
+               "Minds and Machines: Computational Thinking for Interdisciplinary Problem Solving",
+               "Idea Factory: Create Your Own Start-up",
+               "Mathematical and Physical Modeling with Julia",
+               "Building Magnetic Turtle: Testudo"
             ],
             "2nd Session": [
-                "Lemon Bio-Inspired Robots With LEMON (Face to Face)",
-                "Idea factory: Crafting your startup story (Hybrid)",
-                "Python Adventure: Crafting Your Own Text-Based Game (Hybrid)",
-                "Digital Masterpieces: Art Generation with SwiftUI Workshop (Hybrid)",
-                "Origami Automation: Crafting Customizable Automata (Face to Face)",
-                "Toy Factory (Face to Face)",
-                "Dynamic Sculptures with Fusion360: Kinetic Wave (Hybrid)",
-                "Programming Audiovisual Games in p5.js (Online)"
+                "Make Your Own Calculator Using Java Programming",
+                "Machine Learning for Kids",
+                "The Depths of Cybersecurity: Thinking Like a Hacker",
+                "Making Cardboard Robot with Microbit",
+                "Mobile App Designing with Swift",
+                "Minds and Machines: Computational Thinking for Interdisciplinary Problem Solving",
+                "Print-in-Place Magic: Designing 3D Printable Toys with Onshape",
+                "Making a Sword Game with Unity 3D",
+                "Mathematical and Physical Modeling with Julia",
+                "Introduction to AI",
+                "AR Interactive Mechanical Systems:Automata",
             ],
             "3rd Session": [
-                "Make Your Own Creative Calculator with Java (Hybrid)",
-                "Crack Wifi Passwords and Decrypt the Encrypted Messages (Hybrid)",
-                "What to expect from a server: Virtualization from scratch (Hybrid)",
-                "Lemon Bio-Inspired Robots With LEMON (Face to Face)",
-                "Digital Masterpieces: Art Generation with SwiftUI Workshop (Hybrid)",
-                "Can We Repair Old Photos? (Hybrid)",
-                "Unlocking the Athlete's Mind: Predicting Penalty Positions with AI and Computer Vision (Hybrid)",
-                "Coinflip with Quantum Computing (Hybrid)",
-                "Recreating Super Mario Bros with Unity 2D! (Hybrid)",
-                "Origami Automation: Crafting Customizable Automata (Face to Face)",
-                "Toy Factory (Face to Face)",
-                "Computational Thinking Odyssey: Smart City Challenge (Hybrid)",
-                "Large Language Models: AI That Can Talk (Hybrid)",
-                "Create your own website with HTML&CSS and Javascript! (Hybrid)",
-                "Machines Learning For Kids (Hybrid)"
+                "Building Bio-inspired Robots with Lemon",
+                "The Depths of Cybersecurity: Thinking Like a Hacker",
+                "Designing Apps for Kids with Swift",
+                "Making Cardboard Robot with Microbit",
+                "Machine Learning for Kids",
+                "Print-in-Place Magic: Designing 3D Printable Toys with Onshape",
+                "Idea Factory: Create Your Own Start-up",
+                "Making a Sword Game with Unity 3D",
+                "Introduction to AI",
+                "Making Songs with Bandlab",
+                "Building Magnetic Turtle: Testudo"
             ]
         }
     },

@@ -27,7 +27,7 @@
             },
             "Bilgisayar Görüşüyle Spor İstatistiği Tutmak ve Tahminler Yapmak": {
                 "description":"Bu atölyede Python ve OpenCV kullanarak futbol maçlarını analiz etmeyi öğrenin! Bilgisayarla görme teknikleriyle futbol sahasındaki oyuncu hareketlerini, top kontrolünü ve pozisyonları analiz ederek, istatistiklerini otomatik olarak kaydedeceksiniz. Bu istatistikler ile çeşitli tahminler yapacaksınız! Eğitimin sonunda bunları yapan bir uygulama geliştirmiş olacaksınız. Bilgisayar Görmesi ve Veri Analizi becerilerini geliştir!",
-                "image": "./images/workshops/x.png"
+                "image": "./images/workshops/bilgisayargörüşüilesporistatistiği.png"
             },
             "Çocuklar için Makine Öğrenimi": {
                 "description":"Bu ders kapsaminda, ögrenciler interaktif aktiviteler aracılığıyla makine ögrenimi konusuna tanitilacaklardir. Model eğitimi yapmayi, tahminlerde bulunmayı ve yapay zeka etiği konularina giriş yapacaklardir. Bu eğitim, ögrencilere heyecan verici bir sekilde teknolojinin temellerini eglenceli ve ilgi ekici bir sekilde sunmak için tasarlanmistir.",
@@ -35,11 +35,11 @@
             },
             "AR etkileşimli mekanik sistemler: Automata": {
                 "description":"Otomata, K12 seviyesindeki öğrencilere mekanik sistemleri anlatabilmek için tasarladığımız ve ürettiğimiz 3D kitlerdir. Çark ve kam sistemleri gibi temel, günlük hayatta sıklıkla karşımıza çıkan sistemleri öğretmek içindir. Bu sistemlerin çalışma prensiplerini gözlemleyebilmek için de AR aracılığıyla, kitlerle etkileşimli, hayal gücünüzün sınırlarını zorlayacak özelleştirilmiş hareketli görseller!",
-                "image": "./images/workshops/x.png"
+                "image": "./images/workshops/Automata.png"
             },
             "Lemon ile Biyo-İlhamlı Robotlar İnşa Etmek": {
                 "description":"Lemon, başlangıc seviyesindeki kişilerin mekanik, elektronik, 3D tasarım ve programlama bilgilerini geliştirebilecekleri bir robotik eğitim kiti olup, sırasıyla 3 biyomimetrik robot yaparak geliştirmelerini sağlar. Lemon, öğrencilerin robot yapma prosedürünü keşfetmelerinde yol gösterirken aynı zamanda robotik ve bilgisayar bilimleri konusundaki anlayışlarını geliştirmeye yardımcı olur.",
-                "image": "./images/workshops/x.png"
+                "image": "./images/workshops/limePrototype.jpeg"
             },
             "Testudo ile Magnetik Kaplumbağa Üretimi": {
                 "description":"Testudo kiti, robotik alanında yeni başlayanlara, tasarım yapmayı ve biyomimikri yoluyla yenilikçi düşünmeyi öğretmeyi amaçlıyor. Kaplumbağalardan bazlı Testudo ile kullanıcılar, doğal hareketleri taklit eden robotları bir araya getirmeyi ve programlamayı öğrenecektir. Bu süreçte 3D baskılı bileşenler, bir Raspberry Pi Pico, servo motorlar ve Thonny kullanılacaktır.",
@@ -47,57 +47,56 @@
             },
             "Bandlab ile Şarkı Yapımı": {
                 "description":"Bu eğitimde ilk olarak çocuklar bir şarkı türü belirler. Sonrasında eğitmenler Bandlab'i öğrettikten sonra kendileri birer beat yaparlar. Beatleri hazır olduğunda öğrenciler kendi şarkılarının başlığını ve sözlerini yazarlar. Her şey yazıldıktan sonra öğrenciler sıra sıra studioya girer ve kayıtlarını yaparlar. Kayıtların hepsi hazır olduğunda şarkı mixleme öğretilir. Herkes kendi kayıtlarını mixler sonra herkese dinletirler.",
-                "image": "./images/workshops/x.png"
+                "image": "./images/workshops/bandlab.png"
             },
             "Siber Güvenliğin Derinlikleri: Bir Hacker Gibi Düşünmek": {
                 "description":"Bu eğitimde ortadaki adam saldırısıyla bir modemin şifresini bulup bu WIFI ağına bağlı olan cihazların bilgilerine ulaşacağız. Ayrıca bir sanal makine hackleyerek kötü amaçlı hackerların nasıl hareket ettiği ve bunlardan korunma yollarını tartışacağımız bir eğitim olacak. Kalan zamanda ise katılımcıların kişisel merak ve soruları üzerine tartışacağımız interaktif bir ortam oluşacak.",
-                "image": "./images/workshops/x.png"
+                "image": "./images/workshops/Cybersecurity.png"
             },
             "Çocuklar için Swift ile Uygulama Tasarlama": {
                 "description":"Öğrencilere Swift ile bir tane basit uygulama tasarlatıp kodunu yazdıracağımız bir eğitim olacak. Öğrenciler Swift, XCode ve basit komutlarını öğrenecek. Sonra da sırasıyla main, viewcontroller tarzı elemanlara bakıp kodunu yazdıracağız. En son da uygulama UI'ını geliştirip uygulamayı kullanacağız.",
-                "image": "./images/workshops/x.png"
+                "image": "./images/workshops/çocuuklariçinswift.png"
             },
             "Kartondan Microbit ile Robot Yapımı": {
                 "description":"Kartondan Microbit ile Robot Yapımı atölyemiz, ortaokul öğrencilerinin yaratıcı robotlar yapmasını ve bunları yarışmalarla test etmesini amaçlar. Microbit, karton ve servo motorlar kullanılarak gerçekleştirilen bu etkinlikte, öğrenciler hem robot tasarımını hem de temel elektronik ve kodlamayı öğrenirler. Eğlenceli ve uygulamalı içeriğiyle kurs, robotik araba yapımından programlamaya kadar kapsamlı bir öğrenim sunar. Atölye sonunda, öğrenciler kendi tasarladıkları robotları kodlayarak kontrol edebilme ve elektronik becerilerini geliştirme fırsatı bulacaklar. Atölye Sonunda kendi yaptıkları robotları",
-                "image": "./images/workshops/x.png"
+                "image": "./images/workshops/kartondanmicobit.png"
             },
-            "Algoritmik Düşünce": {
-                "description":"-------",
-                "image": "./images/workshops/x.png"
+            "Problem Çözme için Hesaplamalı Düşünme: Zihinler ve Makineler": {
+                "description":"Bu ders, STEM, toplum ve teknolojinin kesişimindeki disiplinlerarası problemleri çözmede hesaplama düşüncesinin rolünü ve önemini tanıtmak için tasarlanmıştır. Problem çözme stratejileri geliştirip karmaşık sistemleri analiz etmek için sayısallaştırma araçlarını kullanma becerisi üzerine odaklanılacaktır.",
+                "image": "./images/workshops/algoritmikdüşünce.png"
             },
             "Swift ile Mobil Uygulama Tasarımı": {
                 "description":"Swift ile Mobil Oyun Tasarımı eğitiminin temel amacı X code adlı Apple'ın uygulama geliştirme aracını kullanmayı öğrenmek ve bu araç ile mobil uygulama kodlamaktır. Deste kullanılacak kodlama dilini adı ise Swift’tir. Bu dersin sonunda swift ve X code hakkındaki temel bilgileri öğrenmiş ve uygulama tasarlamaya başlamış olacaksınız.",
-                "image": "./images/workshops/x.png"
+                "image": "./images/workshops/swiftileuygulamatasarlama.png"
             },
             "Fikir Fabrikası: Kendi Girişiminiz Yaratın": {
                 "description":"Bu eğitim girişim dünyasına başlangıç eğitimidir. Herkes için uygun olan bu atölye, içinizdeki girişimci ruhu uyandirmanizi ve fikirlerinizi basarili bir start-up'a dönüştürmeyi öğrenmenizi saglayacak. Pratik deneyimlerle dolu, mentor destekleri ile desteklenen bu serüvende sadece öğrenmekle kalmayacak, ayni zamanda eğlence ve maceranin tadini çıkaracaksiniz! ",
-                "image": "./images/workshops/x.png"
+                "image": "./images/workshops/entre.png"
             },
             "Print-in-Place Sihri: Onshape ile 3D Yazdırılabilir Oyuncak Tasarımı": {
                 "description":"Bu eğitimde, Onshape kullanarak “print-in-place” konseptiyle hareketli parçalara sahip 3D baskıya uygun oyuncaklar tasarlayacaksınız. Katılımcılar, menteşe ve döner parçalar gibi hareketli detayların tek parça baskıya uygun modelleme yöntemlerini öğrenerek, tasarımlarını doğrudan yazıcıdan kullanıma hazır çıkacak şekilde hazırlayacak.",
-                "image": "./images/workshops/x.png"   
+                "image": "./images/workshops/printinplace.png"   
             },
             "Unity 3D ile Kılıç Oyunu Yapmak": {
                 "description":"Bu eğitimde Unity'nin 3 boyutlu oyun motorundan basit bir kılıç oyunu yapacağız. Süreç içerisinde C# ve Unity için kod yazmayı, Unity'nin arayüzünü, bir ragdoll'u donatmayı, ragdoll'u hareket ettirmeyi, ragdoll'un hareketlerini anime etmeyi öğreneceğiz. Bu ders kodlamaya giriş dersi değildir. Eğer önceden kodlamaya dair hiçbir bilginiz yoksa ve kodlamaya yeni başladıysanız, bu ders sizin için önerilmez.",
-                "image": "./images/workshops/x.png"   
+                "image": "./images/workshops/unitykılıçoyunu.png"   
             },
             "Julia ile Matematiksel ve Fiziksel Modelleme": {
                 "description":"Bu eğitimde Julia programlama dili üzerinden çeşitli matematiksel ve fiziksel kavramlar bu kavramların denklemelerini kullanarak modellenecek. Modeller başlangıçta sabit konseptler üzerine olacak olsada ilerleyen süreçte zamana bağlı renklemelere ilişkin modellemelerde yapılacak. Eğitimde Julia’nın içinde yazılmış çeşitli kütüphaneler sayesinde bahsedilen modellemeler yapılacak. Eğitim sonunda katılan kişiler Julia üzerinden belli başlı matematiksel konseptleri görselleştirebilir hale gelecekler.",
-                "image": "./images/workshops/x.png"   
+                "image": "./images/workshops/julia.png"   
             },
             "Java ile Kendi Hesap Makinenizi Yapın": {
                 "description":"Java’nın gücüyle kendi akıllı hesap makinenizi geliştirin! Bu eğitimde, temel aritmetikten ileri düzey fonksiyonlara kadar çeşitli hesaplama özellikleri sunan, kişisel ihtiyaçlarınıza göre özelleştirilebilen bir hesap makinesi tasarlayacaksınız. Hem Java’yı keşfedin hem de kendi kodlanmış hesap makinenizi oluşturun!",
-                "image": "./images/workshops/x.png"   
+                "image": "./images/workshops/javailehesapmakinesi.png"   
             }
         }
     },
     "Program Text": "Günlük Program",
     "Programs": {
         "2. Gün": {
-            "8:00 - 10:00": "İç Etkinlik(Hisar Öğrencilerine Özel)",
-            "12:00 - 13:00": "Açılış Seramonisi ve Konuşması",
-            "13.00 - 14:50": "1. Oturum",
-            "15:00 - 16:50 ": "2. Oturum",
+            "9:00 - 15:30": "İç Etkinlik(Hisar Öğrencilerine Özel)",
+            "9:00 - 12:00": "1. Oturum",
+            "12:00 - 15:30": "2. Oturum",
             "17:00": "Konuşmacı TBA",
             "18:30": "Konuşmacı TBA",
             "20:00": "Konuşmacı TBA",
@@ -105,14 +104,14 @@
         },
         "1. Gün": {
             "09:00 - 09:30": "Karşılama",
-            "09:30 - 10:00": "Açılılş Seramonisi ve Konuşması",
+            "09:30 - 10:00": "Açılış Seramonisi ve Konuşması",
             "10:10 - 12:10": "1. Oturum",
-            "12:10 - 13:00": "Öğlen Arası / Brownie Savaşları",
-            "13:00 - 14:50": "2. Oturum",
-            "15:00 - 16:50": "3. Oturum",
-            "17:00 - 18:00": "Konuşmacı TBA",
-            "18:10 - 18:40": "Kapanış Seremonisi ",
-            "19:00 - 20:00": "Gathertown Proje Fuarı",
+            "12:10 - 12:50": "Öğle Arası",
+            "12:50 - 14:20": "2. Oturum",
+            "14:20 - 14:30": "Mola",
+            "14:30 - 16:00": "3. Oturum",
+            "16:00 - 16:30": "Brownie Savaşları",
+            "16:30 - 17:00": "Kapanış Seramonisi",
             "Date": "14 Aralık | Cumartesi"
         }
     },
@@ -141,67 +140,66 @@
     "Sessions": {
        "Cuma": {
             "1. Oturum": [	
-                "Java ile Yaratıcı Hesap Makinesi Yapımı (Hibrit)",
-                "Wifilere Sızın ve Şifreli Mesajları Çözün (Hibrit)",
-                "Fikir Fabrikası: Girişimcilik Hikayenizi Yazmaya Başlayın (Hibrit)",
-                "Dijital Şaheserler Yaratma: SwiftUI ile Sanat Üretimi Atölyesi (Hibrit)",
-                "Kuantum Bilişim ile Yazı Tura (Hibrit)",
-                "Origami Otomasyonu: Kişiselleştirilebilir Otomatalar Oluşturma (Yüz Yüze)",
-                "Oyuncak Fabrikası (Yüz Yüze)",
-                "Büyük Dil Modelleri: Konuşan Yapay Zeka (Hibrit)",
-                "Çocuklar İçin Makine Öğrenimi (Hibrit)"
+                "AR etkileşimli mekanik sistemler",
+                "Lemon ile Biyo-İlhamlı Robotlar İnşa Etmek",
+                "Testudo ile magnetik kaplumbağa üretimi",
+                "Bandlab ile şarkı yapımı",
+                "Çocuklar için Makine Öğrenimi",
+                "Siber Güvenliğin Derinlikleri: Bir Hacker Gibi Düşünmek",
+                "Çocuklar için Swift ile Uygulama Tasarlama",
+                "Kartondan Microbit ile Robot Yapımı",
+                "Problem Çözme için Hesaplamalı Düşünme: Zihinler ve Makineler"
+               
             ],
             "2. Oturum": [
-                "Bir Sunucudan Beklenenler: Sıfırdan Sanallaştırma (Hibrit)",
-                "Lemon İle Biyo-İlhamlı Robotlar İnşa Etmek  (Yüz Yüze)",
-                "Python ile Kendi Yazı Tabanlı Hikaye Oyununuzu Yazın (Hibrit)",
-                "Eski fotoğrafları nasıl onarırız? (Hibrit)",
-                "Sporcunun Zihnine Bir Bakış: Yapay Zeka ve Bilgisayar Görüşüyle Penaltı Pozisyonlarını Tahmin Etmek (Hibrit)",
-                "Unity 2D ile Super Mario Bros Yapıyoruz! (Hibrit)",
-                "Algoritmik Düşünce Macerası: Akıllı Şehirini Yarat! (Hibrit)",
-                "Fusion360 ile Dinamik Heykel Yapımı: Kinetik Dalga (Hibrit)",
-                "HTML&CSS ve Javascript ile Kendi Websitenizi Oluşturun! (Hibrit)"
+                "Swift ile Mobil Oyun Tasarımı",
+                "Siber Güvenliğin Derinlikleri: Bir Hacker Gibi Düşünmek",
+                "Yapay Zeka ile Labirent Çözme Uygulaması Yapmak",
+                "Yapay Zekaya Giriş",
+                "Fikir Fabrikası: Kendi Girişiminiz Yaratın",
+                "Problem Çözme için Hesaplamalı Düşünme: Zihinler ve Makineler",
+                "Lemon ile Biyo-İlhamlı Robotlar İnşa Etmek",
+                "Print-in-Place Sihri: Onshape ile 3D Yazdırılabilir Oyuncak Tasarımı"
             ]
        },
        "Cumartesi": {
             "1. Oturum": [
-                "Java ile Yaratıcı Hesap Makinesi Yapımı (Hibrit)",
-                "Lemon İle Biyo-İlhamlı Robotlar İnşa Etmek (Yüz Yüze)",
-                "Fikir Fabrikası: Girişimcilik Hikayenizi Yazmaya Başlayın (Hibrit)",
-                "Python ile Kendi Yazı Tabanlı Hikaye Oyununuzu Yazın (Hibrit)",
-                "Eski fotoğrafları nasıl onarırız? (Hibrit)",
-                "Unity 2D ile Super Mario Bros Yapıyoruz! (Hibrit)",
-                "Origami Otomasyonu: Kişiselleştirilebilir Otomatalar Oluşturma (Yüz Yüze)",
-                "Oyuncak Fabrikası (Yüz Yüze)",
-                "Algoritmik Düşünce Macerası: Akıllı Şehirini Yarat! (Hibrit)",
-                "Çocuklar İçin Makine Öğrenimi (Hibrit)"
+                "Bilgisayar Görüşüyle Spor İstatistiği Tutmak ve Tahminler Yapmak",
+                "Bandlab ile Şarkı Yapımı",
+                "AR etkileşimli mekanik sistemler: Automata",
+                "Siber Güvenliğin Derinlikleri: Bir Hacker Gibi Düşünmek",
+                "Çocuklar için Swift ile Uygulama Tasarlama",
+                "Problem Çözme için Hesaplamalı Düşünme: Zihinler ve Makineler",
+                "Fikir Fabrikası: Kendi Girişiminiz Yaratın",
+                "Julia ile Matematiksel ve Fiziksel Modelleme",
+                "Testudo ile Magnetik Kaplumbağa Üretimi",
+                "Kartondan Microbit ile Robot Yapımı",
+                "Swift ile Mobil Uygulama Tasarımı"
             ],
             "2. Oturum": [
-                "Lemon İle Biyo-İlhamlı Robotlar İnşa Etmek (Yüz Yüze)",
-                "Fikir Fabrikası: Girişimcilik Hikayenizi Yazmaya Başlayın (Hibrit)",
-                "Python ile Kendi Yazı Tabanlı Hikaye Oyununuzu Yazın (Hibrit)",
-                "Dijital Şaheserler Yaratma: SwiftUI ile Sanat Üretimi Atölyesi (Hibrit)",
-                "Origami Otomasyonu: Kişiselleştirilebilir Otomatalar Oluşturma (Yüz Yüze)",
-                "Oyuncak Fabrikası (Yüz Yüze)",
-                "Fusion360 ile Dinamik Heykel Yapımı: Kinetik Dalga (Hibrit)",
-                "Görse-İşitsel Oyun Programlama (Çevrimiçi)"
+                "Java ile Kendi Hesap Makinenizi Yapın",
+                "Çocuklar için Makine Öğrenimi",
+                "Lemon ile Biyo-İlhamlı Robotlar İnşa Etmek",
+                "Kartondan Microbit ile Robot Yapımı",
+                "Swift ile Mobil Uygulama Tasarımı",
+                "Print-in-Place Sihri: Onshape ile 3D Yazdırılabilir Oyuncak Tasarımı",
+                "Unity 3D ile Kılıç Oyunu Yapmak",
+                "Julia ile Matematiksel ve Fiziksel Modelleme",
+                "Yapay Zekaya Giriş",
+                "AR etkileşimli mekanik sistemler: Automata",
+                "Problem Çözme için Hesaplamalı Düşünme: Zihinler ve Makineler"
             ],
             "3. Oturum": [
-                "Java ile Yaratıcı Hesap Makinesi Yapımı (Hibrit)",
-                "Wifilere Sızın ve Şifreli Mesajları Çözün (Hibrit)",
-                "Bir Sunucudan Beklenenler: Sıfırdan Sanallaştırma (Hibrit)",
-                "Lemon İle Biyo-İlhamlı Robotlar İnşa Etmek (Yüz Yüze)",
-                "Dijital Şaheserler Yaratma: SwiftUI ile Sanat Üretimi Atölyesi (Hibrit)",
-                "Eski fotoğrafları nasıl onarırız? (Hibrit)",
-                "Sporcunun Zihnine Bir Bakış: Yapay Zeka ve Bilgisayar Görüşüyle Penaltı Pozisyonlarını Tahmin Etmek (Hibrit)",
-                "Kuantum Bilişim ile Yazı Tura (Hibrit)",
-                "Unity 2D ile Super Mario Bros Yapıyoruz! (Hibrit)",
-                "Origami Otomasyonu: Kişiselleştirilebilir Otomatalar Oluşturma (Yüz Yüze)",
-                "Oyuncak Fabrikası (Yüz Yüze)",
-                "Algoritmik Düşünce Macerası: Akıllı Şehirini Yarat! (Hibrit)",
-                "Büyük Dil Modelleri: Konuşan Yapay Zeka (Hibrit)",
-                "HTML&CSS ve Javascript ile Kendi Websitenizi Oluşturun! (Hibrit)",
-                "Çocuklar İçin Makine Öğrenimi (Hibrit)"
+                "Lemon ile Biyo-İlhamlı Robotlar İnşa Etmek",
+                "Siber Güvenliğin Derinlikleri: Bir Hacker Gibi Düşünmek",
+                "Çocuklar için Swift ile Uygulama Tasarlama",
+                "Kartondan Microbit ile Robot Yapımı",
+                "Çocuklar için Makine Öğrenimi",
+                "Fikir Fabrikası: Kendi Girişiminiz Yaratın",
+                "Unity 3D ile Kılıç Oyunu Yapmak",
+                "Yapay Zekaya Giriş",
+                "Bandlab ile Şarkı Yapımı",
+                "Testudo ile Magnetik Kaplumbağa Üretimi"
             ]
         }
     },
