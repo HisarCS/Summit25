@@ -44,7 +44,7 @@
             },
             "Building Magnetic Turtle: Testudo": {
                 "description":"Our proposed educational kit Testudo aims to teach all beginners in robotics how to design and innovate through biomimicry by drawing inspiration from turtles. With Testudo, users will learn to assemble and program robots that mimic natural movements, using 3D-printed components, a Raspberry Pi Pico, servos, and Thonny. ",
-                "image": "./images/workshops/Quantum.png"
+                "image": "./images/workshops/testudo.jpeg"
             },
             "Making Songs with Bandlab": {
                 "description":"First, the kids choose a song genre. After the instructors teach them how to use BandLab, they each create a beat. Once their beats are ready, the students write the title and lyrics for their songs. When everything is written, they take turns in the studio to record. Once all recordings are complete, they are taught how to mix. Everyone mixes their own recording and then shares it with the group.",

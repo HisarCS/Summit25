@@ -43,7 +43,7 @@
             },
             "Testudo ile Magnetik Kaplumbağa Üretimi": {
                 "description":"Testudo kiti, robotik alanında yeni başlayanlara, tasarım yapmayı ve biyomimikri yoluyla yenilikçi düşünmeyi öğretmeyi amaçlıyor. Kaplumbağalardan bazlı Testudo ile kullanıcılar, doğal hareketleri taklit eden robotları bir araya getirmeyi ve programlamayı öğrenecektir. Bu süreçte 3D baskılı bileşenler, bir Raspberry Pi Pico, servo motorlar ve Thonny kullanılacaktır.",
-                "image": "./images/workshops/x.png"
+                "image": "./images/workshops/testudo.jpeg"
             },
             "Bandlab ile Şarkı Yapımı": {
                 "description":"Bu eğitimde ilk olarak çocuklar bir şarkı türü belirler. Sonrasında eğitmenler Bandlab'i öğrettikten sonra kendileri birer beat yaparlar. Beatleri hazır olduğunda öğrenciler kendi şarkılarının başlığını ve sözlerini yazarlar. Her şey yazıldıktan sonra öğrenciler sıra sıra studioya girer ve kayıtlarını yaparlar. Kayıtların hepsi hazır olduğunda şarkı mixleme öğretilir. Herkes kendi kayıtlarını mixler sonra herkese dinletirler.",
