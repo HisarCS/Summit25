@@ -9,8 +9,7 @@
         "Home": {"name": "Home", "link": "/#home"},
         "About Us": {"name": "About Us", "link": "/#about-us"},
         "11th Event Schedule": {"name": "11th Event Schedule", "link": "/#program"},
-        "Join Coding Summit": {"name": "Join Coding Summit", "link": "/#join"},
-        "Archieve": {"name": "Archieve", "link": "/#archieve"} 
+        "Join Coding Summit": {"name": "Join Coding Summit", "link": "/#join"}
     },
     "Fablab Header": "FabLab: Idealab",
     "Fablab Text": "For a decade, Idealab has been the heartbeat of innovation, a thriving maker space where boundless creativity and collaborative spirit converge to turn dreams into reality.",

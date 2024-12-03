@@ -8,8 +8,7 @@
         "Home": {"name": "Ana Sayfa", "link": "/#home"},
         "About Us": {"name": "Biz Kimiz?", "link": "/#about-us"},
         "10th Event Schedule": {"name": "11. Zirve Programı", "link": "/#program"},
-        "Join Coding Summit": {"name": "Coding Summit'e Katılın", "link": "/#join"},
-        "Archieve": {"name": "Arşiv", "link": "/#archieve"} 
+        "Join Coding Summit": {"name": "Coding Summit'e Katılın", "link": "/#join"}
     },
     "Fablab Header": "FabLab: Idealab",
     "Fablab Text": "Son onbir yıldır, Idealab, sınırsız yaratıcılığın ve işbirlikçi ruhun hayalleri gerçeğe dönüştürmek için bir araya geldiği gelişen bir maker alanı olarak inovasyonun kalbinin attığı yer olmuştur. ",
