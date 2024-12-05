@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6b753099.css",
+    "main.js": "/static/js/main.71a07eea.js",
+    "static/media/CodingSummitPoster.png": "/static/media/CodingSummitPoster.53b4ebf1cd178e3106af.png",
+    "static/media/Achmet-Mohammed.png": "/static/media/Achmet-Mohammed.5b0a501fa65aa62ddb64.png",
+    "static/media/hisar.png": "/static/media/hisar.7bb9938c530277807597.png",
+    "static/media/beyazidealab.png": "/static/media/beyazidealab.9ea327e000abba8f2334.png",
+    "static/media/tr.png": "/static/media/tr.12137b6f87b7aff85977.png",
+    "static/media/en.png": "/static/media/en.267baa87272fccc9edd2.png",
+    "index.html": "/index.html",
+    "static/media/twitter.svg": "/static/media/twitter.ef9f65bfc6d28d82b921.svg",
+    "static/media/instagram.svg": "/static/media/instagram.d971864f19253a0f0848.svg",
+    "static/media/burger-menu.svg": "/static/media/burger-menu.38d993d649e12e1298a86fbcda9d17de.svg",
+    "main.6b753099.css.map": "/static/css/main.6b753099.css.map",
+    "main.71a07eea.js.map": "/static/js/main.71a07eea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b753099.css",
+    "static/js/main.71a07eea.js"
+  ]
+}
