@@ -79,7 +79,7 @@
             },
             "Unity 3D ile Kılıç Oyunu Yapmak": {
                 "description":"Bu eğitimde Unity'nin 3 boyutlu oyun motorundan basit bir kılıç oyunu yapacağız. Süreç içerisinde C# ve Unity için kod yazmayı, Unity'nin arayüzünü, bir ragdoll'u donatmayı, ragdoll'u hareket ettirmeyi, ragdoll'un hareketlerini anime etmeyi öğreneceğiz. Bu ders kodlamaya giriş dersi değildir. Eğer önceden kodlamaya dair hiçbir bilginiz yoksa ve kodlamaya yeni başladıysanız, bu ders sizin için önerilmez.",
-                "image": "./images/workshops/unitykılıçoyunu.png"   
+                "image": "./images/workshops/unity.png"   
             },
             "Julia ile Matematiksel ve Fiziksel Modelleme": {
                 "description":"Bu eğitimde Julia programlama dili üzerinden çeşitli matematiksel ve fiziksel kavramlar bu kavramların denklemelerini kullanarak modellenecek. Modeller başlangıçta sabit konseptler üzerine olacak olsada ilerleyen süreçte zamana bağlı renklemelere ilişkin modellemelerde yapılacak. Eğitimde Julia’nın içinde yazılmış çeşitli kütüphaneler sayesinde bahsedilen modellemeler yapılacak. Eğitim sonunda katılan kişiler Julia üzerinden belli başlı matematiksel konseptleri görselleştirebilir hale gelecekler.",

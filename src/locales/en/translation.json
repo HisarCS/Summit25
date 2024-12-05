@@ -80,7 +80,7 @@
             },
             "Making a Sword Game with Unity 3D!": {
                 "description":"In this workshop, we will create a simple sword game using Unity's 3D game engine. During the process, we will learn to write code for Unity in C#, navigate Unity's interface, equip a ragdoll, control its movements, and animate those movements. This lesson is not an introduction to coding. If you have no prior coding experience or are just starting out, this lesson is not recommended for you.",
-                "image": "./images/workshops/unitykılıçoyunu.png"   
+                "image": "./images/workshops/unity.png"   
             },
             "Mathematical and Physical Modeling with Julia": {
                 "description":"In this course, various mathematical and physical concepts will be modeled using the Julia programming language, employing equations related to these concepts. Initially, the models will focus on static concepts, but later, time-dependent modeling will also be included. The modeling will be accomplished using various libraries built into Julia. By the end of the training, participants will be able to visualize key mathematical concepts in Julia.",
