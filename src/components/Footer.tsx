@@ -8,7 +8,7 @@ const Footer = () => {
     <footer className="footer">
       <div className="container">
         <h1>{t("Giant Join")}</h1>
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLSe8eUM2FBncGzakrb7gOQJQpvedOx9Q7MkMCgXNAaiyh1LjBA/viewform">
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfPlvCBGZnVjbzGPzV8eei-XjYZihbZdGkiy2_FViR-_EVEnA/viewform">
           <button>{t("Join Button Text")}</button>
         </a>
       </div>
