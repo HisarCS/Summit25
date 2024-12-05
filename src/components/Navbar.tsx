@@ -79,7 +79,7 @@ const Navbar = ({
           <a href="/">
             <img className="logo1" height="25" />
           </a>
-          <a href="/">Coding Summit X</a>
+          <a href="/">Coding Summit 11</a>
           <button className="menu" onClick={handleClick}>
             <img src={burgerMenu} height="30" />
           </button>
