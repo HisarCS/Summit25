@@ -1,8 +1,8 @@
 {
-    "Super-Text": "Entering a New Era - Shaping Tomorrow with AI and Innovation",
-    "Title" : "11th Annual Hisar Coding Summit",
+    "Super-Text": "Crossing the Lines: New Frontiers",
+    "Title" : "12th Annual Hisar Coding Summit",
     "About Us": "Hisar Coding Summit, which was initially created to develop the potential of our students within the scope of digital transformation, will be held for the 11th time this year at Hisar Schools on 13-14 December 2024. Hisar Coding Summit will be in both English and Turkish making it an international event with over 20 workshops and 3 speakers",
-    "Join Text": "Are you Coding Summitists ready? We are bringing you together for the 11th time of Hisar Coding Summit!",
+    "Join Text": "Are you Coding Summitists ready? We are bringing you together for the 12th time of Hisar Coding Summit!",
     "Join Button": "Join the Summit",
     "See Program": "See Program",
     "Navbar": {
@@ -16,78 +16,82 @@
     "Fablab Image Text 1": "Coding Since 2013",
     "Fablab Image Text 2": "With the power of Learning",
     "Gathertown Title": "Gathertown: Project Fair",
-    "Gathertown Text": "Our project Fair of Coding Summit 11 will be held Online in GatherTown. We are open to all projects that align with the motto Decade of Learning: Celebrating the Impact of Innovation, and may be of your interest in any interdisciplinary area that displays the intersection of innovation and technology.",
+    "Gathertown Text": "Our project Fair of Coding Summit 12 will be held Online in GatherTown. We are open to all projects that align with the motto Decade of Learning: Celebrating the Impact of Innovation, and may be of your interest in any interdisciplinary area that displays the intersection of innovation and technology.",
     "Workshop Text": "Student Lead Workshops",
     "Gathertown Button Text": "Join as a Presenter",
     "Gathertown Button Link": "https://forms.gle/YiNCZXMZYvuR5irs7",
     "Workshops": {
         "Face To Face": {
-            "Introduction To AI": {
-                "description":"In this lesson, students will explore the fundamentals of artificial intelligence, focusing on neural networks and Large Language Models (LLMs) like ChatGPT. They will learn how these systems predict text through calculations and pattern recognition, along with the concepts of supervised and unsupervised learning, and gain insight into how AI is trained.",
+            "AR-Enhanced Mechanical Systems: Automata": {
+                "description":"Automata are 3D kits we designed and produced to help K–12 students understand mechanical systems. They are intended to teach fundamental mechanisms—such as gears and cam systems—that are frequently encountered in everyday life. To observe how these systems work, the kits are enhanced with augmented reality (AR), offering interactive, customizable animated visuals that push the boundaries of imagination!",
                 "image": "./images/workshops/IntroductionToAI.png"
             },
-            "Keeping Sports Data and Making Predictions using Computer Vision": {
-                "description":"Learn to analyze football matches using Python and OpenCV in this workshop! You will analyze player movements, ball control and positions on the football field with computer vision techniques and automatically record statistics. You will make various predictions with these statistics! At the end of the training, you will have developed an application that does these things. Improve your Computer Vision and Data Analysis skills!",
+            "FRC Robotics Sprint - Robot In 4 Hours": {
+                "description":"In this workshop, participants collaborate to design and build a  robot. Students take on  roles in areas like mechanics, electronics, and software, contributing to different components of the robot. During the workshop, they apply skills in engineering design, problem-solving, rapid prototyping, and task planning. By the end of the session, the robot is tested, allowing students to experience the engineering process of a real FRC team on a smaller scale.",
                 "image": "./images/workshops/bilgisayargörüşüilesporistatistiği.png"
             },
             "Machine Learning for Kids": {
                 "description":"In this class, students will be introduced to the topic of machine learning through interactive activities. They will learn how to train models, make predictions, and understand the ethics of Al. The course is designed to be fun and engaging introducing children to the basics of this exciting technology.",
                 "image": "./images/workshops/machineLearningForKids.png"
             },
-            "AR interactive Mechanical Systems:Automata": {
-                "description":"Otomata are 3D kits designed and produced by us to teach mechanical systems to K12 students. These kits are intended to teach fundamental systems like gears and cam mechanisms, which are commonly encountered in daily life. To observe how these systems work, interactive, customized animated visuals are provided through AR, allowing students to explore and push the boundaries of their imagination!",
+            "2D Game Development with Godot: Monster Attack!": {
+                "description":"In this workshop, students develop their own interactive games using the Godot game engine. They create a game loop by adding character control, a scoring system, and basic physics rules. The process offers a creative exploration of both programming and game logic.",
                 "image": "./images/workshops/Automata.png"
             },
-            "Building Bio-inspired Robots with Lemon": {
+            "Building Bio-inspired Robots: Lemon": {
                 "description":"Lemon is a robotics education kit that allows beginners to improve their knowledge of mechanics, electronics, 3D design, and biomimetic robots. It helps develop students’ understanding of robotics and computer sciences while guiding their discovery of the procedure of making a robot. It serves as an introductory kit, focusing on each step’s specific aspect of modeling.",
                 "image": "./images/workshops/limePrototype.jpeg"
             },
-            "Building Magnetic Turtle: Testudo": {
-                "description":"Our proposed educational kit Testudo aims to teach all beginners in robotics how to design and innovate through biomimicry by drawing inspiration from turtles. With Testudo, users will learn to assemble and program robots that mimic natural movements, using 3D-printed components, a Raspberry Pi Pico, servos, and Thonny. ",
+            "Cardboard Robotics With micro:bit": {
+                "description":"In this workshop, students build and race creative robots. Using Micro:bit, cardboard, and servo motors, they learn the fundamentals of robot design, basic electronics, and coding. With its fun and hands-on approach, the workshop offers a comprehensive learning experience—from building robots to programming them. By the end of the session, students will have the opportunity to code and control their own robot designs while enhancing their electronic skills.",
                 "image": "./images/workshops/testudo.jpeg"
             },
-            "Making Songs with Bandlab": {
-                "description":"First, the kids choose a song genre. After the instructors teach them how to use BandLab, they each create a beat. Once their beats are ready, the students write the title and lyrics for their songs. When everything is written, they take turns in the studio to record. Once all recordings are complete, they are taught how to mix. Everyone mixes their own recording and then shares it with the group.",
+            "Swıft Playground + CoreML: Visual Detection App": {
+                "description":"In this workshop, students develop their own “image recognition” applications using SwiftUI and CoreML. Participants design a mobile system that detects and classifies  images, experiencing how artificial intelligence is used in daily life. The application identifies objects, determines their categories. During this process, students learn concepts of mobile development, model integration, and data processing, exploring coding in a tangible and creative way.",
                 "image": "./images/workshops/bandlab.png"
             },
-            "The Depths of Cybersecurity: Thinking Like a Hacker": {
-                "description": "In this training, we will use a man-in-the-middle attack to find the password of a modem and access information about the devices connected to this Wi-Fi network. Additionally, we will hack a virtual machine to explore how malicious hackers operate and discuss methods of protection against such attacks. In the remaining time, we will create an interactive environment where participants can discuss their personal curiosities and questions regarding cybersecurity.",
+            "PiWars Competition: Designing and Building Robots": {
+                "description": "In the PiWars workshop, students develop Raspberry Pi–based robots and learn to solve autonomous tasks using sensors. They combine mechanical, electronic, and software components to prepare their robots for competition within their teams. At the end of the event, the robots are evaluated based on speed, accuracy, and durability.",
                 "image": "./images/workshops/Cybersecurity.png"
             },
-            "Designing Apps for Kids with Swift": {
-                "description":"The course will include students designing a simple app using Swift and writing its own code. First, we’ll cover the basics of Swift, then explain what Xcode is. After that, we’ll go through elements like main and ViewController step by step and have them write the code. Finally, we’ll develop the app’s UI and use the app.",
+            "Cybersecurity Workshop: Hacking Modems": {
+                "description":"In this training, we will use a man-in-the-middle attack to find a modem’s password and access information about devices connected to that Wi-Fi network. Additionally, we will hack a virtual machine to examine how malicious hackers operate and discuss ways to defend against them. In the remaining time, there will be an interactive session to discuss participants’ personal curiosities and questions.",
                 "image": "./images/workshops/çocuuklariçinswift.png"
             },
-            "Making Cardboard Robot with Microbit ": {
-                "description":"This hands-on workshop fosters creativity and problem-solving skills, as students engage in building robotic cars, learning programming, and integrating basic electronics. The goal is to give middle school students an enriching experience where they can test their creations through competitions and take pride in their innovative robotic projects. At the end of the workshop, students will have the opportunity to program and control the robots they designed, enhancing their electronic skills At the end of the workshop, students will have the opportunity to program and control the robots they designed, enhancing their electronic skills",
+            "3D Toy Design and Production wıth TinkerCad": {
+                "description":"Tinkercad is an intuitive design platform that allows students to take their first steps into the world of 3D modeling. Participants combine geometric shapes to create toys, vehicles, or decorative objects. By the end of the workshop, everyone will have completed their own toy digitally and produced it physically using 3D printing.",
                 "image": "./images/workshops/kartondanmicobit.png"
             },
-            "Minds and Machines: Computational Thinking for Interdisciplinary Problem Solving": {
-                "description":"This course is designed to introduce students to the concept of computational thinking and its role in solving interdisciplinary problems at the intersection of stem, society, and technology. The course will focus on developing problem-solving strategies, and the ability to utilize computational tools to solve complex problems and systems in the light of ethics and societal factors.",
+            "Cut&Build: Layered Models with Laser Cutter": {
+                "description":"Participants use CNC technology to create multi-layered models and mechanical systems. They plan their designs digitally, generate cutting files, and then assemble their physical models. This workshop serves as an ideal introduction for students interested in exploring digital fabrication processes.",
                 "image": "./images/workshops/algoritmikdüşünce.png"
             },
-            "Mobile App Designing with Swift": {
-                "description":"The main goal of the Mobile Game Design course with Swift is to learn how to use Xcode, Apple’s application development tool, and to code mobile applications with it. The coding language to be used in this course is Swift. By the end of this course, you will have learned the basics of Swift and Xcode and will be able to start designing applications.",
+            "Design Your Own Sticker: Vinyl Cutting Workshop": {
+                "description":"Students design multi-colored sticker sets using vinyl cutting technology. By creating layered graphics in a digital environment, they learn about color management, composition, and production processes. At the end of the workshop, everyone produces their own personalized designs and experiences the joy of digital fabrication.",
                 "image": "./images/workshops/swiftileuygulamatasarlama.png"
             },
-            "Idea Factory: Create Your Own Start-up": {
-                "description":"Discover the exciting world of entreprenurship. Our workshop, is suitable for everyone! Unleash your inner innovator and learn to transform your ideas into thriving startups. Dive into hands-on activities and expert guidance, and embark on a journey that promises not just learning, but fun and adventure!",
+            "Music Composition wıth AI: Java Workshop": {
+                "description":"In this workshop, students design their own music generation systems using the Java programming language and AI. Participants develop an algorithm that analyzes  note sequences and generates new melodies based on these patterns. By exploring the creative potential of artificial intelligence in music, students work on data analysis, sequence prediction, and algorithm design. By the end of the workshop, everyone will have composed music through code.",
                 "image": "./images/workshops/entre.png"
             },
-            "Print-in-Place Magic: Designing 3D Printable Toys with Onshape": {
-                "description":"In this workshop, you'll use Onshape to design 3D-printable toys with moving parts using the “print-in-place” concept. Participants will learn techniques for modeling hinges, rotating parts, and other movable details that are suitable for single-print designs, allowing creations to come directly out of the printer, ready to use.",
+            "Technovation Girls: Prototype for Impact": {
+                "description":"Participants form teams to address a social problem and develop a mobile application prototype. Throughout the process, they enhance their skills in idea generation, user analysis, and presentation. The workshop offers an entrepreneurial experience focused on creating social impact through technology.",
                 "image": "./images/workshops/printinplace.png"   
             },
-            "Making a Sword Game with Unity 3D!": {
-                "description":"In this workshop, we will create a simple sword game using Unity's 3D game engine. During the process, we will learn to write code for Unity in C#, navigate Unity's interface, equip a ragdoll, control its movements, and animate those movements. This lesson is not an introduction to coding. If you have no prior coding experience or are just starting out, this lesson is not recommended for you.",
+            "Quantum Computing": {
+                "description":"Participants explore how quantum physics merges with computer science through gamified examples. They learn the concepts of qubits, superposition, and measurement through intuitive experiments. This workshop serves as an introduction to the future of computing.",
                 "image": "./images/workshops/unity.png"   
             },
-            "Mathematical and Physical Modeling with Julia": {
+            "Modeling & Visualization wıth Julia": {
                 "description":"In this course, various mathematical and physical concepts will be modeled using the Julia programming language, employing equations related to these concepts. Initially, the models will focus on static concepts, but later, time-dependent modeling will also be included. The modeling will be accomplished using various libraries built into Julia. By the end of the training, participants will be able to visualize key mathematical concepts in Julia.",
                 "image": "./images/workshops/julia.png"   
             },
-            " Make Your Own Calculator Using Java Programming": {
-                "description":" Make your own smart calculator using the Java programming language. In this workshop we will help you create a calculator that can perform simple arithmetic calculations to advanced algorithms. You will learn about the Java programming language which is used to code robotics systems, web apps and games. Explore Java and create your own creative calculator!",
+            "Minds and Machines: Prototyping R&D Quickshop": {
+                "description":"This workshop aims to solve interdisciplinary problems by understanding the interaction between STEM, society, and technology. Participants develop computational thinking and design-based research skills while analyzing complex systems. Throughout the session, they engage in ideation, problem definition, hypothesis building, and project writing. This process enables students to formulate their ideas and transform them into research.",
+                "image": "./images/workshops/javailehesapmakinesi.png"   
+            },
+            "Customize Your Own Keychaın wıth Onshape": {
+                "description":"n this workshop, students design and customize their own 3D keychains using Onshape, a professional cloud-based CAD platform. Participants learn the basics of 3D modeling, including sketching, extruding, and text engraving. Throughout the process, they develop spatial reasoning and design-thinking skills while exploring digital fabrication. By the end of the session, each student will have created a personalized keychain ready for 3D printing.",
                 "image": "./images/workshops/javailehesapmakinesi.png"   
             }
         }
@@ -104,15 +108,15 @@
             "Date": "13 December | Friday"
         },
         "Day 2": {
-            "09:00 - 09:30": "Welcoming",
-            "09:30 - 10:00": "Opening Ceramony and Speech",
-            "10:10 - 12:10": "1st Session",
-            "12:10 - 12:50": "Lunch Break",
-            "12:50 - 14:20": "2nd Session",
+            "09:00 - 09:30": "Welcoming, Opening Ceramony and Speech",
+            "09.:30 - 11:30": "1st Session",
+            "11.30 - 12:20": "Lunch Break",
+            "12:20 - 14:20": "2nd Session",
             "14:20 - 14:30": "Break",
             "14:30 - 16:00": "3rd Session",
-            "16:00 - 16:30": "Brownie Wars",
-            "16:30 - 17:00": "Closing Ceramony ",
+            "16:00 - 16:30": "PiWars & micro:bit Yarışması",
+            "16:30 - 16:50": "Brownie Wars",
+            "16:50 - 17:00": "Closing Ceremony",
             "Date": "14 December | Saturday"
         }
     },
